@@ -1,13 +1,14 @@
-name: Zip repository
+name: Create Archive
 on: [workflow_dispatch]
-
 jobs:
-  zip-n-push:
-    name: Zip and Push
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Zip Folder
-        run: |
-          cd ../ # I added this
-          rm -rf MySecondBrain.zip
-          zip -r MySecondBrain.zip MySecondBrain -x ".git/*" ".github/*"
+    - uses: actions/checkout@master
+    - name: Archive Release
+      uses: thedoctor0/zip-release@0.7.5
+      with:
+        type: 'zip'
+        filename: 'release.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
+
