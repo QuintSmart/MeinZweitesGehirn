@@ -1,0 +1,79 @@
+{
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Default",
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "format": "YYYY-MM-DD_ddd",
+        "folder": "S01 Personal/040-049 Journal/41 Daily Notes",
+        "openAtStartup": false,
+        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Daily Note.md"
+      },
+      "week": {
+        "enabled": true,
+        "format": "",
+        "folder": "S01 Personal/040-049 Journal/42 Weekly Notes",
+        "openAtStartup": false,
+        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Weekly Note.md"
+      },
+      "month": {
+        "enabled": true,
+        "format": "",
+        "folder": "S01 Personal/040-049 Journal/43 Monthly Notes",
+        "openAtStartup": false,
+        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Monthly Note.md"
+      },
+      "quarter": {
+        "enabled": true,
+        "format": "",
+        "folder": "S01 Personal/040-049 Journal/44 Quarterly Notes",
+        "openAtStartup": false,
+        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Quarterly Note.md"
+      },
+      "year": {
+        "enabled": true,
+        "format": "",
+        "folder": "S01 Personal/040-049 Journal/45 Yearly Notes",
+        "openAtStartup": false,
+        "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL Yearly Note.md"
+      },
+      "id": "Default",
+      "ctime": "2022-06-02T16:54:47+02:00"
+    }
+  ],
+  "enableTimelineComplication": true,
+  "daily": {
+    "format": "YYYY-MM-DD_ddd",
+    "template": "100 Personal/50-59 Resources/54 Templates/TPL Daily Note.md",
+    "folder": "100 Personal/40-49 Journal/41 Daily Notes",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "100 Personal/50-59 Resources/54 Templates/TPL Weekly Note.md",
+    "folder": "100 Personal/40-49 Journal/42 Weekly Notes",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "100 Personal/50-59 Resources/54 Templates/TPL Monthly Note.md",
+    "folder": "100 Personal/40-49 Journal/43 Monthly Notes",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "100 Personal/50-59 Resources/54 Templates/TPL Quarterly Note.md",
+    "folder": "100 Personal/40-49 Journal/44 Quarterly Notes",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "100 Personal/50-59 Resources/54 Templates/TPL Yearly Note.md",
+    "folder": "100 Personal/40-49 Journal/45 Yearly Notes",
+    "enabled": true
+  }
+}

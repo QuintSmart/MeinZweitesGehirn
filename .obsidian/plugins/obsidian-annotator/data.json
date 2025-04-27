@@ -1,0 +1,20 @@
+{
+  "deafultDarkMode": false,
+  "darkReaderSettings": {
+    "brightness": 150,
+    "contrast": 85,
+    "sepia": 0
+  },
+  "debugLogging": false,
+  "customDefaultPath": "S01 Personal/030-039 Areas/32 Zettelkasten/Literature Notes/Book notes/Bibs",
+  "epubSettings": {
+    "readingMode": "pagination",
+    "fontSize": 100
+  },
+  "annotationMarkdownSettings": {
+    "annotationModeByDefault": true,
+    "includePrefix": true,
+    "highlightHighlightedText": true,
+    "includePostfix": true
+  }
+}

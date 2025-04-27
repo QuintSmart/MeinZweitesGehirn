@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "locale",
+  "wordsPerDot": 100,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "gggg-[W]ww",
+  "weeklyNoteTemplate": "S01 Personal/060-069 Utilities/64 Templates/TPL Weekly Note",
+  "weeklyNoteFolder": "S01 Personal/040-049 Journal/42 Weekly Notes",
+  "localeOverride": "system-default"
+}

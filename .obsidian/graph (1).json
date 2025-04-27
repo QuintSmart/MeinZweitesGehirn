@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"40 Journal\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711935
+      }
+    },
+    {
+      "query": "path:\"30 Areas/31 Fleeting notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 15270226
+      }
+    },
+    {
+      "query": "path:\"30 Areas/32 Literature notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"30 Areas/33 Permanent notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 35071
+      }
+    },
+    {
+      "query": "path:\"30 Areas/34 MOCs\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"30 Areas/35 Contacts\"",
+      "color": {
+        "a": 1,
+        "rgb": 11403519
+      }
+    },
+    {
+      "query": "path:\"30 Areas/36 People\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"30 Areas/37 Meeting notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 15856896
+      }
+    },
+    {
+      "query": "path:\"10 Meta\"",
+      "color": {
+        "a": 1,
+        "rgb": 14056704
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 0.995393738794649,
+  "lineSizeMultiplier": 1.20420631637016,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.261627547119498,
+  "close": true
+}

@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "41a6b8e668cbb9f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22341861303437f",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox/_Reading Order.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29abb8eb5643c9cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91a0bad0c7ed089",
+        "type": "tabs",
+        "dimension": 74.02597402597402,
+        "children": [
+          {
+            "id": "a83562435e5d75b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88af0fa363b2809e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "My agile",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "83e8b724c2b1fb32",
+        "type": "tabs",
+        "dimension": 25.97402597402597,
+        "children": [
+          {
+            "id": "01d6432bd0373c2e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd68f869dedca907",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415
+  },
+  "right": {
+    "id": "e097fb3699a615ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0d3dceb8a73d9d0",
+        "type": "tabs",
+        "dimension": 43.70860927152318,
+        "children": [
+          {
+            "id": "122fa56f0c3fc01b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox/_Reading Order.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ab7abeb0cda9eec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox/_Reading Order.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5952a860b039a453",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox/_Reading Order.md"
+              }
+            }
+          },
+          {
+            "id": "23ccc51f43e6049c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "62997966f94efbf2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "39be4723650a2b35",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "43a534055bb9f8ca",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c847376ecaca3053",
+        "type": "tabs",
+        "dimension": 56.29139072847682,
+        "children": [
+          {
+            "id": "beedd2cb7d1ec9d3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox/_Reading Order.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8055354578492246,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "bd1a6f2c97b831e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "active": "a22341861303437f",
+  "lastOpenFiles": [
+    "S01 Personal/030-039 Areas/38 Agile/38.09 Strategy/Extract from The Art of Action.md",
+    "S01 Personal/030-039 Areas/31 Me/31.01 Knowledge Portfolio/Causal Loop Diagram.md",
+    "S01 Personal/030-039 Areas/38 Agile/38.09 Strategy/MOC Strategy.md",
+    "S01 Personal/030-039 Areas/38 Agile/38.09 Strategy/Trinity of Directing, Leadership and Management.md",
+    "S01 Personal/030-039 Areas/38 Agile/38.41 Causal Loop Diagrams/Causal Loop examples pictures.md",
+    "S01 Personal/030-039 Areas/38 Agile/38.41 Causal Loop Diagrams/Fleeting Note for Causal Loop Diagram.md",
+    "S01 Personal/030-039 Areas/38 Agile/38.09 Strategy/OODA Loops Knowledge.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Kindle/Military Strategy.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Kindle/THE ART OF STRATEGY.md",
+    "S01 Personal/030-039 Areas/31 Me/31.01 Knowledge Portfolio/OODA Loops.md"
+  ]
+}

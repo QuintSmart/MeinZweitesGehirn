@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "41a6b8e668cbb9f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "48523bf635b136aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "S01 Personal/030-039 Areas/37 Product/37.09 Product Roadmaps/Product Strategy.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29abb8eb5643c9cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91a0bad0c7ed089",
+        "type": "tabs",
+        "dimension": 76.5807962529274,
+        "children": [
+          {
+            "id": "a83562435e5d75b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "88af0fa363b2809e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Guiding policy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "83e8b724c2b1fb32",
+        "type": "tabs",
+        "dimension": 23.4192037470726,
+        "children": [
+          {
+            "id": "01d6432bd0373c2e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd68f869dedca907",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428
+  },
+  "right": {
+    "id": "e097fb3699a615ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0d3dceb8a73d9d0",
+        "type": "tabs",
+        "dimension": 43.70860927152318,
+        "children": [
+          {
+            "id": "122fa56f0c3fc01b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "S01 Personal/030-039 Areas/37 Product/37.09 Product Roadmaps/Product Strategy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ab7abeb0cda9eec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "S01 Personal/030-039 Areas/37 Product/37.09 Product Roadmaps/Product Strategy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5952a860b039a453",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "S01 Personal/030-039 Areas/37 Product/37.09 Product Roadmaps/Product Strategy.md"
+              }
+            }
+          },
+          {
+            "id": "23ccc51f43e6049c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "62997966f94efbf2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "39be4723650a2b35",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcba889a99e3d510",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c847376ecaca3053",
+        "type": "tabs",
+        "dimension": 56.29139072847682,
+        "children": [
+          {
+            "id": "beedd2cb7d1ec9d3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "S01 Personal/030-039 Areas/37 Product/37.09 Product Roadmaps/Product Strategy.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8055354578492246,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "bd1a6f2c97b831e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "active": "48523bf635b136aa",
+  "lastOpenFiles": [
+    "S01 Personal/030-039 Areas/37 Product/37.08 Product Discovery/MOC Product Discovery.md",
+    "S01 Personal/030-039 Areas/37 Product/37.05 OKR/MOC OKRs.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Kindle/Abolishing Performance Appraisals.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Kindle/Kindle.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox/_Reading Order.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox/Antifragile.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox/Agility Shift - Pamela Meyer.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature Inbox/Literature Inbox.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Book notes/Book notes.md",
+    "S01 Personal/030-039 Areas/32 Zettelkasten/Literature notes/Literature notes.md"
+  ]
+}

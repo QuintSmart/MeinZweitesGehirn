@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"db14ac163282c58b","x":-335,"y":-30,"width":250,"height":50,"type":"text","text":"Fleeting note"},
+		{"id":"d717ac7356a69fbc","x":126,"y":-207,"width":250,"height":50,"type":"text","text":"Permanent note"},
+		{"id":"569f65000757a396","x":-39,"y":75,"width":250,"height":50,"type":"text","text":"Literature note"},
+		{"id":"1e9e27fcd760c76e","x":126,"y":177,"width":250,"height":50,"type":"text","text":"next Literature note"}
+	],
+	"edges":[
+		{"id":"c061845ee4cbcaec","fromNode":"db14ac163282c58b","fromSide":"right","toNode":"d717ac7356a69fbc","toSide":"left","label":"transformed to"},
+		{"id":"65531aabc5b53492","fromNode":"db14ac163282c58b","fromSide":"bottom","toNode":"569f65000757a396","toSide":"left"},
+		{"id":"0f501663b35db6d4","fromNode":"569f65000757a396","fromSide":"right","toNode":"d717ac7356a69fbc","toSide":"bottom","label":"1:n"},
+		{"id":"662a54b72a6b61e7","fromNode":"d717ac7356a69fbc","fromSide":"right","toNode":"569f65000757a396","toSide":"right","label":"links back"},
+		{"id":"db665ae16b578a8a","fromNode":"569f65000757a396","fromSide":"bottom","toNode":"db14ac163282c58b","toSide":"left","label":"new sparks"},
+		{"id":"e31d2647c0a2242d","fromNode":"569f65000757a396","fromSide":"bottom","toNode":"1e9e27fcd760c76e","toSide":"top"},
+		{"id":"443911bd7ae9b5f5","fromNode":"d717ac7356a69fbc","fromSide":"right","toNode":"1e9e27fcd760c76e","toSide":"right","label":"can motivate next"},
+		{"id":"26ee1fe2b75dcf7f","fromNode":"d717ac7356a69fbc","fromSide":"top","toNode":"db14ac163282c58b","toSide":"top","label":"can motivate next"}
+	]
+}

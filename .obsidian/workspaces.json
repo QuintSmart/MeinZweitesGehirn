@@ -1,0 +1,374 @@
+{
+  "workspaces": {
+    "Course Home": {
+      "main": {
+        "id": "41a6b8e668cbb9f5",
+        "type": "split",
+        "children": [
+          {
+            "id": "d176f56fb1a1dd87",
+            "type": "tabs",
+            "dimension": 43.944759206798864,
+            "children": [
+              {
+                "id": "bc683f0c255ed459",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Important Course Information"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6290a2aa20e1408b",
+            "type": "tabs",
+            "dimension": 56.055240793201136,
+            "children": [
+              {
+                "id": "44ac2afb2ef9aca6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "S01 Personal/040-049 Journal/41 Daily Notes/2025-04-27_Sun.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-04-27_Sun"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "29abb8eb5643c9cd",
+        "type": "split",
+        "children": [
+          {
+            "id": "d91a0bad0c7ed089",
+            "type": "tabs",
+            "dimension": 75.06234413965088,
+            "children": [
+              {
+                "id": "a83562435e5d75b6",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "88af0fa363b2809e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#publish_in_newsletter",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "8265be7c08e15042",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              }
+            ]
+          },
+          {
+            "id": "83e8b724c2b1fb32",
+            "type": "tabs",
+            "dimension": 24.93765586034913,
+            "children": [
+              {
+                "id": "bd68f869dedca907",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "71a858094b00afda",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 572.5
+      },
+      "right": {
+        "id": "e097fb3699a615ee",
+        "type": "split",
+        "children": [
+          {
+            "id": "f0d3dceb8a73d9d0",
+            "type": "tabs",
+            "dimension": 38.73943120676403,
+            "children": [
+              {
+                "id": "122fa56f0c3fc01b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "2ab7abeb0cda9eec",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Home 🏠.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Home 🏠"
+                }
+              },
+              {
+                "id": "5952a860b039a453",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Important Course Information"
+                }
+              },
+              {
+                "id": "caacb98c4fda9505",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "62997966f94efbf2",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "75e240a314c80d2d",
+                "type": "leaf",
+                "state": {
+                  "type": "Strange New Worlds",
+                  "state": {},
+                  "icon": "file-digit",
+                  "title": "Strange New Worlds"
+                }
+              },
+              {
+                "id": "6855cab73ea5aef1",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {},
+                  "icon": "dices",
+                  "title": "Dice Tray"
+                }
+              },
+              {
+                "id": "43b542f0ce916196",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Home 🏠.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Home 🏠"
+                }
+              },
+              {
+                "id": "8a553e031691a03d",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {},
+                  "icon": "dices",
+                  "title": "Dice Tray"
+                }
+              },
+              {
+                "id": "807fc002f727d420",
+                "type": "leaf",
+                "state": {
+                  "type": "Strange New Worlds",
+                  "state": {},
+                  "icon": "file-digit",
+                  "title": "Strange New Worlds"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "49605b4c4672eb59",
+            "type": "tabs",
+            "dimension": 15.372790161414295,
+            "children": [
+              {
+                "id": "07cffb40ea7e5140",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c847376ecaca3053",
+            "type": "tabs",
+            "dimension": 45.887778631821675,
+            "children": [
+              {
+                "id": "bd1a6f2c97b831e1",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 497.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "quickadd:QuickAdd": false,
+          "command-palette:Open command palette": false,
+          "markdown-importer:Open format converter": true,
+          "random-note:Open random note": true,
+          "audio-recorder:Start/stop recording": true,
+          "workspaces:Manage workspace layouts": true,
+          "daily-notes:Open today's daily note": true,
+          "graph:Open graph view": false,
+          "obsidian-kanban:Create new board": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "periodic-notes:Open today's daily note": false,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "extract-highlights-plugin:Extract Highlights": true,
+          "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+          "dbfolder:Create a new database table": true,
+          "omnisearch:Omnisearch": false,
+          "darlal-switcher-plus:Open in Headings Mode": true,
+          "darlal-switcher-plus:Open Symbols for the active editor": true,
+          "custom-sort:Toggle custom sorting": true,
+          "slides-extended:Show slide preview": true,
+          "pdf-plus:PDF++: Toggle auto-copy": true,
+          "pdf-plus:PDF++: Toggle auto-focus": true,
+          "pdf-plus:PDF++: Toggle auto-paste": true,
+          "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false,
+          "html-server:Turn Http Server On": false,
+          "html-server:Turn Http Server Off": false
+        }
+      },
+      "active": "a83562435e5d75b6",
+      "mtime": "2025-04-27T21:36:01+02:00"
+    }
+  },
+  "active": "Course Home"
+}

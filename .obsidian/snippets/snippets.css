@@ -1,0 +1,18 @@
+
+.workspace-leaf-content.canvas-file.testclass .canvas-node-label{
+    color: green;
+    display:none;
+}
+
+.workspace-leaf-content.canvas-file.testclass .canvas-edges path.canvas-display-path{
+    stroke-width:1px;
+    stroke:blue;
+    
+}
+
+.workspace-leaf-content.canvas-file.testclass .canvas-node{
+    stroke:blue;
+    
+   
+}
+   

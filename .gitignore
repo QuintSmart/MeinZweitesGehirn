@@ -1,0 +1,26 @@
+.smart-env/*.ajson
+.smart-env/**/*.ajson
+.smart-env/multi/*.json
+.smart-env/multi/*.ajson
+.smart-env/*.json
+.smart-env/**/*.json
+.smart-connections/*.json
+.smart-connections/**/*.json
+.smart-connections/embeddings-*.json
+.obsidian/plugins/text-extractor/cache/*.json
+S01 Personal/100-199 Projects/101 Hausbau/30-39 Areas/32 Küchenplanung/attachments/Küchenjournal 2023.pdf
+.tmp.driveupload/**
+.tmp.drivedownload/**
+.tmp.driveupload/139655
+.tmp.driveupload/152901
+.tmp.driveupload/151515
+.tmp.driveupload/139655
+.tmp.driveupload/152901
+.tmp.driveupload/152901
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
+.obsidian/plugins/obsidian-secondbrainfetcher-plugin

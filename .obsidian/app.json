@@ -1,0 +1,17 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "legacyEditor": false,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "current",
+  "showFrontmatter": true,
+  "attachmentFolderPath": "./attachments",
+  "showInlineTitle": false
+}

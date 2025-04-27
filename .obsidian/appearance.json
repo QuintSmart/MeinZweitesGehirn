@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 24,
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "baseFontSizeAction": true,
+  "accentColor": "#6a8695",
+  "enabledCssSnippets": [
+    "snippets"
+  ],
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": true,
+  "translucency": false
+}

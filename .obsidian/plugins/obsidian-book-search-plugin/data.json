@@ -1,0 +1,20 @@
+{
+  "folder": "S01 Personal/050-059 Resources/Literature notes/Literature Inbox",
+  "fileNameFormat": "",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Snake Case",
+  "templateFile": "",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": false,
+  "enableCoverImageSave": false,
+  "enableCoverImageEdgeCurl": true,
+  "coverImagePath": "",
+  "askForLocale": true
+}
