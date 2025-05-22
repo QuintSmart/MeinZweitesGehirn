@@ -22,12 +22,7 @@ Current month: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("Y
 ## Done today (Obsidian based)
 
 ### Current Pact
-My follow-up PACT (next 10 days, until 25.03):
 
-1. Dedicate first daily Pomodoro to defining the day's main goal  
-2. Complete at least 2 additional Pomodoro sequences daily  
-3. Maintain a detailed Pomodoro experience journal in daily notes  
-4. Integrate Pomodoro planning into morning routine
 
 ### My 3 permanent notes today
 

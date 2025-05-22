@@ -113,7 +113,7 @@ SORT file.ctime DESC limit 20
 📄 [[S01 Personal/+📥 inbox/Value - for spending learning budget|Value - for spending learning budget]]
 📄 [[S01 Personal/+📥 inbox/Verbal Tools for Group facilitation|Verbal Tools for Group facilitation]]
 📄 [[S01 Personal/+📥 inbox/What is Action Driven Learning|What is Action Driven Learning]]
-📄 [[S01 Personal/+📥 inbox/What makes content sticky?|What makes content sticky?]]
+📄 [[S01 Personal/+📥 inbox/What makes content sticky|What makes content sticky]]
 📄 [[S01 Personal/+📥 inbox/Write your Mission Statement|Write your Mission Statement]]
 📄 [[S01 Personal/+📥 inbox/Zettelkasten - Taking Smart Notes - Notes from a video by Joshua Meyer|Zettelkasten - Taking Smart Notes - Notes from a video by Joshua Meyer]]
 🗂️ [[S01 Personal/+📥 inbox/attachments/attachments|attachments]]

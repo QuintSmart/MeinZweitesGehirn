@@ -20,7 +20,6 @@
   "cycle-through-panes",
   "obsidian-icon-folder",
   "obsidian-dynamic-toc",
-  "cm-typewriter-scroll-obsidian",
   "extract-highlights-plugin",
   "obsidian-focus-mode",
   "obsidian-dice-roller",
@@ -59,5 +58,8 @@
   "OA-file-hider",
   "folder-notes",
   "obsidian-git",
-  "obsidian-banners"
+  "obsidian-banners",
+  "obsidian42-brat",
+  "course-module-loader",
+  "typewriter-mode"
 ]

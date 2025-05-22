@@ -3,7 +3,7 @@ tags:
 
 ---
 # Desired Outcome
-based on [[What is a desired outcome?]]
+based on [[What is a desired outcome]]
 
 
 

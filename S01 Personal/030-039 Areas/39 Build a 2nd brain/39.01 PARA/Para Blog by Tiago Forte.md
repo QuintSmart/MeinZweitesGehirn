@@ -46,7 +46,7 @@ Creating an accurate Project List gives you the confidence to say yes OR no to n
 Use the [[PARA Part 5_ The Project List Mindsweep - Forte Labs.pdf]] exercise to create the project list.
 
 ### Meta Data for the Project
-What is my [[What is a desired outcome?]] for this project? 
+What is my [[What is a desired outcome]] for this project? 
 What would need to happen for this project to be considered an outstanding success?
 
 Phrase desired outcomes in the present tense, to help project yourself forward in time to when the outcome you are describing has come true:
@@ -237,7 +237,7 @@ But information overload is not a feature of the external world. It’s not even
 The ability to accelerate project turnover simply by reducing the size of projects gives you the ability to produce novelty on demand, for even the most boring administrative tasks. If I encounter a project I’m resistant to, I simply keep making it smaller until the reward feels more tangible than the pain. This gives me control of the drumbeat of fulfilled deadlines, which I tune to maximize my sense of self-efficacy.
 
 ## Networks of projects
-Projected form a network with interfaces defined by [[What is a desired outcome?]]
+Projected form a network with interfaces defined by [[What is a desired outcome]]
 Theory of Constraints calls this a **[[Prerequisite Tree]]** or a **Necessary Condition Network**
 
 Your projects _are_ the nodes in your personal productivity network. They are the containers into which information flows, intelligence is applied, and work is performed. Desired outcomes are the _interfaces_ between these nodes, allowing projects to work together and become more than the sum of their parts.

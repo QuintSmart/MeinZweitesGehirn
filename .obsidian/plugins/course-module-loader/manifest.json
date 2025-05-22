@@ -1,0 +1,1 @@
+{"id":"course-module-loader","name":"Course Module Loader","version":"1.0.0","minAppVersion":"0.15.0","description":"Downloads and unzips course module zip files from a URL into a specified vault folder, skipping existing files.","author":"Sebastian Kamilli","authorUrl":"https://github.com/QuintSmart","isDesktopOnly":false}

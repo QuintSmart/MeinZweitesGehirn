@@ -9,7 +9,7 @@ date_modified: Wednesday, July 5th 2023, 7:18:46 am
 # Fight, Flight and Freeze stress response
 ***
 *Showing the 3 emotional reactions freeze, fight, flight visualized using MidJourney AI*
-![[sebastiankamilli_Fight_flight_and_freeze_reactions_of_a_bald_wh_9328216e-12c8-48e0-90c4-fbb559757405.png|400]]
+![[sebastiankamilli_Fight_flight_and_freeze_reactions.png|400]]
 
 ***
 

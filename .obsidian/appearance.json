@@ -1,7 +1,7 @@
 {
   "baseFontSize": 24,
   "cssTheme": "Minimal",
-  "theme": "system",
+  "theme": "moonstone",
   "baseFontSizeAction": true,
   "accentColor": "#6a8695",
   "enabledCssSnippets": [

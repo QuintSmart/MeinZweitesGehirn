@@ -8,7 +8,6 @@
           {
             "id": "d176f56fb1a1dd87",
             "type": "tabs",
-            "dimension": 43.944759206798864,
             "children": [
               {
                 "id": "bc683f0c255ed459",
@@ -32,37 +31,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Important Course Information"
-                }
-              }
-            ]
-          },
-          {
-            "id": "6290a2aa20e1408b",
-            "type": "tabs",
-            "dimension": 56.055240793201136,
-            "children": [
-              {
-                "id": "44ac2afb2ef9aca6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "S01 Personal/040-049 Journal/41 Daily Notes/2025-04-27_Sun.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-04-27_Sun"
                 }
               }
             ]
@@ -150,7 +118,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 572.5
+        "width": 394.5
       },
       "right": {
         "id": "e097fb3699a615ee",
@@ -333,6 +301,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "obsidian42-brat:BRAT": false,
           "switcher:Open quick switcher": true,
           "canvas:Create new canvas": true,
           "templates:Insert template": true,
@@ -361,13 +330,11 @@
           "pdf-plus:PDF++: Toggle auto-copy": true,
           "pdf-plus:PDF++: Toggle auto-focus": true,
           "pdf-plus:PDF++: Toggle auto-paste": true,
-          "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false,
-          "html-server:Turn Http Server On": false,
-          "html-server:Turn Http Server Off": false
+          "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false
         }
       },
       "active": "a83562435e5d75b6",
-      "mtime": "2025-04-27T21:36:01+02:00"
+      "mtime": "2025-05-22T05:46:50+02:00"
     }
   },
   "active": "Course Home"

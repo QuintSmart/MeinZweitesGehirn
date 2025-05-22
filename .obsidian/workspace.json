@@ -6,7 +6,6 @@
       {
         "id": "d176f56fb1a1dd87",
         "type": "tabs",
-        "dimension": 43.944759206798864,
         "children": [
           {
             "id": "bc683f0c255ed459",
@@ -30,37 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Important Course Information"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6290a2aa20e1408b",
-        "type": "tabs",
-        "dimension": 56.055240793201136,
-        "children": [
-          {
-            "id": "44ac2afb2ef9aca6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S01 Personal/040-049 Journal/41 Daily Notes/2025-04-27_Sun.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-27_Sun"
             }
           }
         ]
@@ -96,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#publish_in_newsletter",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,6 +73,16 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "8265be7c08e15042",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -138,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5
+    "width": 394.5
   },
   "right": {
     "id": "e097fb3699a615ee",
@@ -321,6 +299,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
@@ -332,9 +311,9 @@
       "workspaces:Manage workspace layouts": true,
       "daily-notes:Open today's daily note": true,
       "graph:Open graph view": false,
-      "obsidian-kanban:Create new board": true,
+      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "templater-obsidian:Templater": true,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "periodic-notes:Open today's daily note": false,
       "obsidian-book-search-plugin:Create new book note": false,
@@ -352,9 +331,45 @@
       "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false
     }
   },
-  "active": "a83562435e5d75b6",
+  "active": "bd68f869dedca907",
   "lastOpenFiles": [
+    "S01 Personal/100-199 Projects/100-199 Projects.md",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
+    "S01 Personal/060-069 Utilities/64 Templates/TPL Daily Note.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Second Brain Setup Instructions - V1.0.1.md",
+    "Home 🏠.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted image 20250428082105.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/TrustAuthor.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted image 20250428082002.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted image 20250428081627.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/OpenVault.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Week 1.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428123913_420.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428155547_078.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/4mat_,myLearningStyles202504.pdf",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428143410_093.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428140513_505.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428152144_259.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/GMT20250428-154028_RecordingnewChat md.txt",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Transcript_Week 1 - Training.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/AI Session Summary.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Training_SessionChat.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Second Brain Setup Instructions - V1.0.0.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Week 1 - Session Design.md",
+    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/attachments/simulate_a_behavior_sexample.excalidraw.md",
+    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/attachments/AssumptionTestTypeMappingS.excalidraw.md",
+    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/attachments/assumptiontest_circles.excalidraw.md",
+    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/CDH Course Assumption Testing/Questions while working on assumption tests.md",
+    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/CDH Course Assumption Testing/MOC Assumption Testing.md",
+    "S01 Personal/030-039 Areas/37 Product/37.06 Goal setting/37.06 Goal setting.md",
+    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/37.07 Continuous Discovery Habits.md",
+    "S01 Personal/030-039 Areas/37 Product/37.09 Product Roadmaps/37.09 Product Roadmaps.md",
+    "S01 Personal/040-049 Journal/41 Daily Notes/2025-04-27_Sun.md",
+    "S01 Personal/+📥 inbox/What makes content sticky.md",
+    "S01 Personal/030-039 Areas/38 Agile/38.05 Agile Games/Yes and Question.md",
+    "S01 Personal/030-039 Areas/39 Build a 2nd brain/39.01 PARA/What is a desired outcome.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Session Recording and Transcript.md",
+    "S01 Personal/S01 Personal.md",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/101 Running through Learning Ecosystem Mastery.md",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 9",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 8",
@@ -364,41 +379,6 @@
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 4",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 3",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1",
-    "Home 🏠.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/attachments/NotesBanner.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/attachments/Banner.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/attachments",
-    "S01 Personal/040-049 Journal/41 Daily Notes/2025-04-27_Sun.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from Why Feedback Doesn't Work.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from the book Magic Words.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from the book - The Art of Public Speaking.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from the book - The Art of influencing Anyone.md",
-    "S01 Personal/030-039 Areas/39a02 Health/Notes from Neuro Resilience.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from Natalie Lue - It's not in your head, it is Gaslighting.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from Lead from the Outside.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from Imposter Syndrome.md",
-    "S01 Personal/030-039 Areas/30.02 Productivity/Notes from How to Win your Week.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from How not to Worry.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from Cracking the codes video.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from Good Strategy, bad Strategy and the Crux - Podcast with Lenny adn Rummelt.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from book Work Rules by Laszlo Bock.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from book Trillion Dollar Coach.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes From Book TED talks.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from Book Talk like TEDs.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from book Outlive - topic Longevity.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from book Leading with Love and Laughter.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from book Beginners.md",
-    "S01 Personal/050-059 Resources/Literature notes/Notes from - 4 Stages of Psychological Safety.md",
-    "S01 Personal/030-039 Areas/30.01 Artificial Intelligence/Midjourney Prompts.md",
-    "S01 Personal/030-039 Areas/38 Agile/38.44 Agile Core/IntroductionToAgile.excalidraw.svg",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted image 20230504214949.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted image 20220607152408.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted image 20230505065449.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted image 20230504214846.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted image 20230504070058.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted image 20220607152148.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted image 20220607152101.png",
     "S01 Personal/030-039 Areas/39 Build a 2nd brain/My experience Map.canvas",
     "S01 Personal/030-039 Areas/Permanent notes/Note transitions.canvas",
     "S01 Personal/Archive/111 Session Form Continuous Discovery Habits/30-39 Areas/Flow.canvas",
