@@ -13,5 +13,6 @@
   "newFileLocation": "current",
   "showFrontmatter": true,
   "attachmentFolderPath": "./attachments",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden"
 }

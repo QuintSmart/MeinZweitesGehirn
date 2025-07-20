@@ -6,8 +6,14 @@ banner: "![[NotesBanner.png]]"
 ---
 # Important Course Information
 
-- Your [Circle Community](https://learning-ecosystem.quintsmart.com/c/community/)
+- Your [Circle Community](https://learning-ecosystem.quintsmart.com/c/community-2d8319/)
 - Your [Langdock-AI environment](https://app.langdock.com/chat) - you should find a Link in your eMail inbox
+
+## About Obsidian
+- Markdown Cheat Sheet - https://www.markdownguide.org/cheat-sheet/
+- Obsidian for Beginners: Start HERE — How to Use the Obsidian App for Notes https://youtu.be/QgbLb6QCK88
+- Obsidian for Beginners: 6 Keys to Markdown (2/6) — How to Use the Obsidian App for Notes https://youtu.be/bBk2kg8Gm_U
+
 
 ## Contact Sebastian Kamilli
 - via Circle and [sending a message](https://learning-ecosystem.quintsmart.com/messages/new)

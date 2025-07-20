@@ -11,48 +11,6 @@
       "ctime": 1683368796356
     },
     {
-      "type": "group",
-      "ctime": 1710993200979,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1707746353655,
-          "path": "S03 QuintSmart/030-039 Areas/35 LinkedIn posting/35 LinkedIn posting.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1719838764189,
-          "path": "S03 QuintSmart/Archive/302 LinkedIn engagement experiment/Experiment frame.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1710993157088,
-          "path": "S01 Personal/030-039 Areas/39a03 LinkedIn/Learning about Hooks.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1711862158302,
-          "path": "S01 Personal/030-039 Areas/39a03 LinkedIn/Magnetic writing tips distilled.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1720689420123,
-          "path": "S01 Personal/030-039 Areas/39a03 LinkedIn/LinkedIn Size insights.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1721278751923,
-          "path": "S01 Personal/030-039 Areas/39a03 LinkedIn/LinkedIn Formatting Collection.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1721284033459,
-          "path": "S01 Personal/030-039 Areas/39a03 LinkedIn/Commenting Section.md"
-        }
-      ],
-      "title": "LinkedIn"
-    },
-    {
       "type": "file",
       "path": "Midjourney V6 prompts examples/040-049 Journal/46 LinkedIn posting/46 LinkedIn posting.md",
       "ctime": 1683368796356
@@ -86,80 +44,6 @@
       "path": "S03 QuintSmart/Archive/133 SecondBrain and AI course/Community members.md"
     },
     {
-      "type": "group",
-      "ctime": 1713898328848,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1713898350335,
-          "path": "S01 Personal/030-039 Areas/39 Build a 2nd brain/MOC Building a 2nd brain.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1713900290862,
-          "path": "S01 Personal/030-039 Areas/38 Agile/38.09 Strategy/How to begin.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1713968386858,
-          "path": "S01 Personal/050-059 Resources/Literature notes/Matter/Matter.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1715769295559,
-          "path": "S01 Personal/050-059 Resources/Literature notes/Book notes/Kindle/Kindle.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1715770205534,
-          "path": "S01 Personal/Archive/135 Learn LinkedIn Writing/MOC LinkedIn Writing.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1715768411236,
-          "path": "S01 Personal/030-039 Areas/39a05 Continuous Learning/MOC - Learning How to Learn.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1717430697062,
-          "path": "S01 Personal/+📥 inbox/Note Sources of Inspiration.md"
-        }
-      ],
-      "title": "Presentation"
-    },
-    {
-      "type": "group",
-      "ctime": 1715768389512,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1715769491623,
-          "path": "S01 Personal/030-039 Areas/39 Build a 2nd brain/MOC Building a 2nd brain.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1713968242630,
-          "path": "S01 Personal/050-059 Resources/Literature notes/Book notes/Kindle/Kindle.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1715768476254,
-          "path": "S01 Personal/050-059 Resources/Literature notes/Book notes/Kindle/DeMarco-The Millionaire Fastlane.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1715769031332,
-          "path": "S01 Personal/030-039 Areas/39a06 Wealth/MOC Becoming a Fastlaner.md"
-        },
-        {
-          "type": "file",
-          "ctime": 1721538775658,
-          "path": "S01 Personal/030-039 Areas/39a03 LinkedIn/Story Brainstorming about Learning in my Life.md"
-        }
-      ],
-      "title": "Smarter Learning"
-    },
-    {
       "type": "file",
       "ctime": 1731896870201,
       "path": "S03 QuintSmart/Archive/315 Notemaking Mastery Course/Notemaking Mastery Map.md",
@@ -179,6 +63,18 @@
       "type": "file",
       "ctime": 1745143415655,
       "path": "S01 Personal/+📥 inbox/AI Meetup with Jurgen.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1753025050635,
+      "path": "S01 Personal/050-059 Resources/59a03 Continuous Learning/MOC - Learning How to Learn.md",
+      "title": "MOC Learning How To Learn"
+    },
+    {
+      "type": "file",
+      "ctime": 1753025094662,
+      "path": "S01 Personal/050-059 Resources/59a01 Build a 2nd Brain/MOC Building a 2nd brain.md",
+      "title": "MOC Building a Second Brain"
     }
   ]
 }

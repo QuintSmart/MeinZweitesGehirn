@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a3bbcd6d6643d018",
+        "id": "712387554d9c9c45",
         "type": "tabs",
         "children": [
           {
-            "id": "a449efb802b2ed6b",
+            "id": "a0d2779c2af29021",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Important Course Information"
             }
           }
         ]
@@ -92,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 338.5
   },
   "right": {
     "id": "e097fb3699a615ee",
@@ -101,7 +115,7 @@
       {
         "id": "f0d3dceb8a73d9d0",
         "type": "tabs",
-        "dimension": 33.195449844881075,
+        "dimension": 37.30407523510973,
         "children": [
           {
             "id": "122fa56f0c3fc01b",
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S01 Personal/030-039 Areas/39 Build a 2nd brain/What are permanent notes.md",
+                "file": "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What are permanent notes"
+              "title": "Backlinks for Important Course Information"
             }
           },
           {
@@ -150,33 +164,13 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "95dd1b4994b24047",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "72338e22fd479bd3",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
-            }
           }
         ]
       },
       {
         "id": "1ed764826846dfb6",
         "type": "tabs",
-        "dimension": 25.439503619441574,
+        "dimension": 20.898641588296766,
         "children": [
           {
             "id": "2ab7abeb0cda9eec",
@@ -184,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S01 Personal/030-039 Areas/39 Build a 2nd brain/What are permanent notes.md",
+                "file": "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What are permanent notes"
+              "title": "Outgoing links from Important Course Information"
             }
           }
         ]
@@ -197,7 +191,7 @@
       {
         "id": "49605b4c4672eb59",
         "type": "tabs",
-        "dimension": 20.682523267838675,
+        "dimension": 20.898641588296766,
         "children": [
           {
             "id": "07cffb40ea7e5140",
@@ -214,7 +208,7 @@
       {
         "id": "c847376ecaca3053",
         "type": "tabs",
-        "dimension": 20.682523267838675,
+        "dimension": 20.898641588296766,
         "children": [
           {
             "id": "bd1a6f2c97b831e1",
@@ -235,16 +229,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5,
+    "width": 418.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
+      "obsidian42-brat:BRAT": true,
       "switcher:Open quick switcher": true,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "quickadd:QuickAdd": false,
+      "periodic-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": true,
       "random-note:Open random note": true,
@@ -252,16 +247,15 @@
       "workspaces:Manage workspace layouts": true,
       "daily-notes:Open today's daily note": true,
       "graph:Open graph view": false,
-      "obsidian-kanban:Create new board": false,
+      "obsidian-kanban:Create new board": true,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "templater-obsidian:Templater": false,
+      "templater-obsidian:Templater": true,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today's daily note": false,
-      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-book-search-plugin:Create new book note": true,
       "extract-highlights-plugin:Extract Highlights": true,
+      "omnisearch:Omnisearch": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "dbfolder:Create a new database table": true,
-      "omnisearch:Omnisearch": false,
       "darlal-switcher-plus:Open in Headings Mode": true,
       "darlal-switcher-plus:Open Symbols for the active editor": true,
       "custom-sort:Toggle custom sorting": true,
@@ -269,59 +263,60 @@
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
-      "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false
+      "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": true,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a83562435e5d75b6",
+  "active": "a0d2779c2af29021",
   "lastOpenFiles": [
-    "S01 Personal/+📥 inbox/Test.md",
-    "S01 Personal/050-059 Resources/Literature notes/test.md",
-    "S01 Personal/030-039 Areas/39a03 Career Management/39a11 LinkedIn Posting/Test.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/What are permanent notes.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/Permanent notes.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted image 20240505054325.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted Image 20240127063834_848.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted Image 20240127063704_835.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted Image 20240127063633_233.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted Image 20240127063139_907.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted Image 20240127063040_889.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted Image 20240127061818_092.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted Image 20240127060239_992.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted Image 20240127060919_878.png",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments/Pasted Image 20240127060427_267.png",
+    "S01 Personal/sortspec.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Week 2 - Session Design.excalidraw.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Teaching Around the 4MAT Cycle Highlights.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505132225_080.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505125000_096.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250428155547_078.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted image 20250504201516.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250113193315_437.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505110824_604.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505144959_711.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505143304_249.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted image 20250504200525.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505125516_440.png",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/12 Favorite Problem assistent prompt.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Transcript_Week 2 - Training.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/AI session summary.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Chat_Week2 - Training.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Week 2.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Usage of 12 Favorite Problems.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2",
+    "Home 🏠.md",
+    "MySecondBrain.md",
+    "S01 Personal/040-049 Journal/41 Daily Notes/2025-07-20_Sun.md",
+    "Untitled Kanban.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Make longer.md",
+    "S01 Personal/050-059 Resources/59a01 Build a 2nd Brain/Book Summarization/Progressive Summarization.md",
+    "S01 Personal/050-059 Resources/59a01 Build a 2nd Brain/Book Summarization/Write a book summary.md",
+    "S01 Personal/050-059 Resources/59a01 Build a 2nd Brain/Book Summarization/How to take Digital Notes.md",
+    "copilot-custom-prompts/copilot-custom-prompts.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts",
     "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/attachments/AgileLandscape.excalidraw.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Permanent notes.md",
-    "S01 Personal/030-039 Areas/39a03 Career Management/Braindump exercise.md",
-    "S01 Personal/050-059 Resources/55 SoftSkills/55 SoftSkills.md",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/The smallest evil argumentation.md",
-    "S01 Personal/050-059 Resources/55 SoftSkills/The smallest evil argumentation.md",
-    "S01 Personal/030-039 Areas/Permanent notes/The smallest evil argumentation.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Time to Value.md",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/Time to Value.md",
-    "S01 Personal/030-039 Areas/Permanent notes.md",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/attachments/attachments.md",
     "S01 Personal/030-039 Areas/38 Being an Agile Coach/attachments/Agile2_Presentation.pdf",
     "S01 Personal/030-039 Areas/38 Being an Agile Coach/attachments",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/Agile 2 - Presentation Slides.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/About my usage of Fleeting Notes, Permanent notes and Literature Notes.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/Take notes after each chapter - Learnings.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/What is a literature note.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/What is a fleeting note.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/What goes into Journal.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/PKM toolstack.excalidraw.md",
     "S01 Personal/030-039 Areas/39 Build a 2nd brain/Note transitions.canvas",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/38 Being an Agile Coach.md",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/Introduction to Agile - AI generated.md",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/IntroductionToAgile.excalidraw.md",
     "S01 Personal/030-039 Areas/38 Being an Agile Coach",
     "S01 Personal/030-039 Areas/35 Digital Garden/Note transitions.canvas",
     "S01 Personal/030-039 Areas/39a03 Career Management/39a11 LinkedIn Posting",
     "S01 Personal/030-039 Areas/39a03 Career Management/attachments/LinkedIn Playbook.pdf",
     "S01 Personal/030-039 Areas/39a03 Career Management/attachments/LinkedIn Headline Examples.pdf",
-    "S01 Personal/030-039 Areas/39a03 Career Management/attachments/How to Use Software and Crowdsourcing to Identify the Perfect LinkedIn Photo.pdf",
-    "S01 Personal/030-039 Areas/39a03 Career Management/attachments/21HookHeadlines.pdf",
-    "S01 Personal/030-039 Areas/39a03 Career Management/attachments/1709293770066.pdf",
     "S01 Personal/030-039 Areas/Permanent notes/Note transitions.canvas",
     "S01 Personal/030-039 Areas/39 Build a 2nd brain/My experience Map.canvas",
     "S01 Personal/Archive/111 Session Form Continuous Discovery Habits/30-39 Areas/Flow.canvas",

@@ -44,7 +44,6 @@
   "obsidian-vault-statistics-plugin",
   "quick-latex",
   "file-explorer-note-count",
-  "obsidian42-strange-new-worlds",
   "custom-sort",
   "obsidian-regex-replace",
   "SecondBrainFetcher",
@@ -61,5 +60,6 @@
   "obsidian-banners",
   "obsidian42-brat",
   "course-module-loader",
-  "typewriter-mode"
+  "typewriter-mode",
+  "editing-toolbar"
 ]
