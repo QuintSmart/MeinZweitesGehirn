@@ -13,7 +13,8 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "S01 Personal/030-039 Areas/39a11 LinkedIn Posting"
+          "",
+          "S01 Personal/030-039 Areas/39a03 Career Management/39a11 LinkedIn Posting"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -44,36 +45,6 @@
         "enabled": true,
         "folders": [
           "S01 Personal/+📥 inbox"
-        ],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": true,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": true,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
-    },
-    {
-      "id": "c6a9d321-94ce-4850-bf0c-ddf49e55118a",
-      "name": "Add to: Permanent Notes",
-      "type": "Template",
-      "command": false,
-      "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL QA Permanent Note.md",
-      "fileNameFormat": {
-        "enabled": true,
-        "format": "{{VALUE:What is your name for the permanent note?}}"
-      },
-      "folder": {
-        "enabled": true,
-        "folders": [
-          "S01 Personal/030-039 Areas/Permanent notes"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
