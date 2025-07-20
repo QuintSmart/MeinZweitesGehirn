@@ -12,7 +12,7 @@ It takes you 7 simple steps, doable in 5 minutes to open your Obsidian-Second Br
 
 2) Download your Second-Brain template:
 
-[https://github.com/QuintSmart/MySecondBrain/archive/refs/tags/v1.0.1.zip](https://github.com/QuintSmart/MySecondBrain/archive/refs/tags/v1.0.1.zip)
+[https://github.com/QuintSmart/MySecondBrain/archive/refs/tags/v1.1.zip](https://github.com/QuintSmart/MySecondBrain/archive/refs/tags/v1.1.zip)
 
 3) Unpack to a folder, where you can find it in the next step again.
 (on Mac I e.g. unpacked in folder /Users/sebastiankamilli/Documents/MySecondBrain-version)

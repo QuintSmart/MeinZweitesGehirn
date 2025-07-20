@@ -12,14 +12,8 @@ date_modified: Thursday, May 18th 2023, 6:15:56 pm
 
 **==Deep and wide.==** Explored so much the live has to offer.
 
-![[Pasted image 20230430111631.png]]
-
-
 + keep a dozen of your favorite problems/open questions present in your mind
 + test it against each of your twelve problems
-
-- [ ] Read Feynman: Biographie: [[Richard Feynman - John Gribbin Mary Gribbin]]
-- [ ] What are my recurring, long term interests/open questions?
 
 ## Nice open ended questions to define or find my 12 questions
 

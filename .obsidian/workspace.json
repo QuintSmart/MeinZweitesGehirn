@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d176f56fb1a1dd87",
+        "id": "0064b9133bee7702",
         "type": "tabs",
         "children": [
           {
-            "id": "bc683f0c255ed459",
+            "id": "7df5baee0c03ed4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
-                "mode": "preview",
+                "file": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Important Course Information"
+              "title": "Toskanische Bohnensuppe"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#publish_in_newsletter",
+                "query": "tag:#digital_garden",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,16 +73,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "8265be7c08e15042",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           }
         ]
@@ -116,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 477.5
   },
   "right": {
     "id": "e097fb3699a615ee",
@@ -125,7 +115,7 @@
       {
         "id": "f0d3dceb8a73d9d0",
         "type": "tabs",
-        "dimension": 38.73943120676403,
+        "dimension": 33.195449844881075,
         "children": [
           {
             "id": "122fa56f0c3fc01b",
@@ -133,30 +123,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "2ab7abeb0cda9eec",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Home 🏠.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Home 🏠"
+              "icon": "links-coming-in",
+              "title": "Backlinks for Toskanische Bohnensuppe"
             }
           },
           {
@@ -165,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
+                "file": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Important Course Information"
+              "title": "Outline of Toskanische Bohnensuppe"
             }
           },
           {
@@ -187,76 +164,34 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1ed764826846dfb6",
+        "type": "tabs",
+        "dimension": 25.439503619441574,
+        "children": [
           {
-            "id": "62997966f94efbf2",
+            "id": "2ab7abeb0cda9eec",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "75e240a314c80d2d",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
-            }
-          },
-          {
-            "id": "6855cab73ea5aef1",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "43b542f0ce916196",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
+              "type": "outgoing-link",
               "state": {
-                "file": "Home 🏠.md"
+                "file": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
               },
-              "icon": "lucide-info",
-              "title": "File properties for Home 🏠"
-            }
-          },
-          {
-            "id": "8a553e031691a03d",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "807fc002f727d420",
-            "type": "leaf",
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
+              "icon": "links-going-out",
+              "title": "Outgoing links from Toskanische Bohnensuppe"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "49605b4c4672eb59",
         "type": "tabs",
-        "dimension": 15.372790161414295,
+        "dimension": 20.682523267838675,
         "children": [
           {
             "id": "07cffb40ea7e5140",
@@ -273,7 +208,7 @@
       {
         "id": "c847376ecaca3053",
         "type": "tabs",
-        "dimension": 45.887778631821675,
+        "dimension": 20.682523267838675,
         "children": [
           {
             "id": "bd1a6f2c97b831e1",
@@ -294,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5,
+    "width": 462.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -333,54 +268,54 @@
   },
   "active": "bd68f869dedca907",
   "lastOpenFiles": [
-    "S01 Personal/100-199 Projects/100-199 Projects.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
-    "S01 Personal/060-069 Utilities/64 Templates/TPL Daily Note.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Second Brain Setup Instructions - V1.0.1.md",
-    "Home 🏠.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted image 20250428082105.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/TrustAuthor.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted image 20250428082002.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted image 20250428081627.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/OpenVault.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Week 1.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428123913_420.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428155547_078.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/4mat_,myLearningStyles202504.pdf",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428143410_093.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428140513_505.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/Pasted Image 20250428152144_259.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/GMT20250428-154028_RecordingnewChat md.txt",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Transcript_Week 1 - Training.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/AI Session Summary.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Training_SessionChat.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Second Brain Setup Instructions - V1.0.0.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Week 1 - Session Design.md",
-    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/attachments/simulate_a_behavior_sexample.excalidraw.md",
-    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/attachments/AssumptionTestTypeMappingS.excalidraw.md",
-    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/attachments/assumptiontest_circles.excalidraw.md",
-    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/CDH Course Assumption Testing/Questions while working on assumption tests.md",
-    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/CDH Course Assumption Testing/MOC Assumption Testing.md",
-    "S01 Personal/030-039 Areas/37 Product/37.06 Goal setting/37.06 Goal setting.md",
-    "S01 Personal/030-039 Areas/37 Product/37.07 Continuous Discovery Habits/37.07 Continuous Discovery Habits.md",
-    "S01 Personal/030-039 Areas/37 Product/37.09 Product Roadmaps/37.09 Product Roadmaps.md",
-    "S01 Personal/040-049 Journal/41 Daily Notes/2025-04-27_Sun.md",
-    "S01 Personal/+📥 inbox/What makes content sticky.md",
-    "S01 Personal/030-039 Areas/38 Agile/38.05 Agile Games/Yes and Question.md",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/39.01 PARA/What is a desired outcome.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/Session Recording and Transcript.md",
-    "S01 Personal/S01 Personal.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/101 Running through Learning Ecosystem Mastery.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 9",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 8",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 7",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 6",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 5",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 4",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 3",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/My experience Map.canvas",
+    "S01 Personal/030-039 Areas/Permanent notes/Writing for self discovery experience.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Work against own idea bias.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Why Brainstorming fails.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Time to Value.md",
+    "S01 Personal/030-039 Areas/Permanent notes/We are what we repeatedly do - Quote reflection.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Tips for Breakout Rooms in Zoom.md",
+    "S01 Personal/030-039 Areas/Permanent notes/The smallest evil argumentation.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Take notes after each chapter - Learnings.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Swarm Stupidity.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Small but huge impact quote by Benjamin Labatut.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Sparks from Agile 2.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Snapshot for a Setup for presentations.md",
+    "S01 Personal/030-039 Areas/Permanent notes/PKM toolstack.excalidraw.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Notes from Learn how to learn.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Org Team Structure and Communication aspects.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Observation Accepting Others Eating Your Time.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Notes on Working with the Zettelkasten to write an article.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Notes on the Crisis of Fractured Organizations.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Notes on efficient eMail processing.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Notes from Leadership Re-Development - Integrating Your Coaching.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Notes for Keine Sinnfragen, Bitte.md",
     "S01 Personal/030-039 Areas/Permanent notes/Note transitions.canvas",
+    "S01 Personal/030-039 Areas/Permanent notes/Move Forward Quote.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Note about lead magnets.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Memletics - Learning Model.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Mapping OKR and SMART.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Learning about Focus Drivers Approach - Park, Off Road, Sports, and Eco mode.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Johari.excalidraw.svg",
+    "S01 Personal/030-039 Areas/Permanent notes/Creating a Visual Note.excalidraw.svg",
+    "S01 Personal/030-039 Areas/39 Build a 2nd brain/Access approach map.svg",
+    "S01 Personal/030-039 Areas/39 Build a 2nd brain/My experience Map.canvas",
+    "S01 Personal/030-039 Areas/38 Agile/38.09 Strategy/BoaP - Playing to Win.svg",
+    "S01 Personal/030-039 Areas/30.01 Artificial Intelligence/attachments/649d59d9f88aae1c048304d0_ESMT_AIM_Brochure_Final_00.pdf",
+    "S01 Personal/+📥 inbox/attachments/Pasted image 20221003182704.png",
+    "S01 Personal/+📥 inbox/attachments/Pasted image 20221116150800.png",
+    "S01 Personal/+📥 inbox/attachments/Pasted image 20221116161241.png",
+    "S01 Personal/+📥 inbox/attachments/Pasted image 20221005071626.png",
+    "S01 Personal/+📥 inbox/attachments/Pasted image 20221116154923.png",
+    "S01 Personal/+📥 inbox/attachments/Pasted image 20221116154838.png",
+    "S01 Personal/+📥 inbox/attachments/Marker-Optionen-Arbeit.pdf",
+    "S01 Personal/+📥 inbox/attachments/Exploring-Your-Values-tool.pdf",
+    "S01 Personal/+📥 inbox/attachments/Digital-HQ.de-DE.pdf",
+    "S01 Personal/+📥 inbox/attachments/DeepLearningByHuberman.pdf",
+    "S01 Personal/+📥 inbox/attachments/CS Team Agreement.pdf",
+    "S01 Personal/+📥 inbox/attachments/checkliste-didaktisches-fundament.pdf",
+    "S01 Personal/+📥 inbox/attachments/74347858-211f-4b72-99d8-001090bc0192.pdf",
+    "S01 Personal/+📥 inbox/attachments/03-Meeting Summary WTS Employee Experience Panel.pdf",
+    "S01 Personal/+📥 inbox/attachments/02-Meeting Summary WTS Customer Experience Panel.pdf",
     "S01 Personal/Archive/111 Session Form Continuous Discovery Habits/30-39 Areas/Flow.canvas",
     "S03 QuintSmart/Archive/133 SecondBrain and AI course/Filled Business Model Canvas.canvas",
     "S01 Personal/Archive/110 Building a Second Brain with Obsidian/30-39 Areas/31 Marketing/Messaging Map.canvas",

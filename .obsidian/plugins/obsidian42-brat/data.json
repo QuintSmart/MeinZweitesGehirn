@@ -1,13 +1,6 @@
 {
-  "pluginList": [
-    "QuintSmart/obsidian-course-module-loader"
-  ],
-  "pluginSubListFrozenVersion": [
-    {
-      "repo": "QuintSmart/obsidian-course-module-loader",
-      "version": "latest"
-    }
-  ],
+  "pluginList": [],
+  "pluginSubListFrozenVersion": [],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
