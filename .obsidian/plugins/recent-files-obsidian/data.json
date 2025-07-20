@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Toskanische Bohnensuppe",
-      "path": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md"
+      "basename": "The Culture of Feedback",
+      "path": "S01 Personal/030-039 Areas/38 Agile/38.31 Leadership/The Culture of Feedback.md"
+    },
+    {
+      "basename": "38.31 Leadership",
+      "path": "S01 Personal/030-039 Areas/38 Agile/38.31 Leadership/38.31 Leadership.md"
+    },
+    {
+      "basename": "Boiling Frogs CGHQ Paper",
+      "path": "S01 Personal/050-059 Resources/themes/58 Agile/58.11 Wardley Mapping/Boiling Frogs CGHQ Paper.md"
+    },
+    {
+      "basename": "How to Measure Anything Presentation",
+      "path": "S01 Personal/030-039 Areas/39a10 My Portfolio/How to Measure Anything Presentation.md"
+    },
+    {
+      "basename": "PKM toolstack.excalidraw",
+      "path": "S01 Personal/030-039 Areas/Permanent notes/PKM toolstack.excalidraw.md"
+    },
+    {
+      "basename": "Digital-Garden-setup.excalidraw",
+      "path": "S01 Personal/030-039 Areas/35 Digital Garden/Digital-Garden-setup.excalidraw.md"
+    },
+    {
+      "basename": "Forming Continuous Discovery Habits Presentation",
+      "path": "S01 Personal/030-039 Areas/39a10 My Portfolio/Forming Continuous Discovery Habits Presentation.md"
+    },
+    {
+      "basename": "Work against own idea bias",
+      "path": "S01 Personal/030-039 Areas/Permanent notes/Work against own idea bias.md"
     },
     {
       "basename": "Writing for self discovery experience",
       "path": "S01 Personal/030-039 Areas/Permanent notes/Writing for self discovery experience.md"
     },
     {
-      "basename": "Work against own idea bias",
-      "path": "S01 Personal/030-039 Areas/Permanent notes/Work against own idea bias.md"
+      "basename": "Toskanische Bohnensuppe",
+      "path": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md"
     },
     {
       "basename": "Why Brainstorming fails",
@@ -35,10 +63,6 @@
     {
       "basename": "Small but huge impact quote by Benjamin Labatut",
       "path": "S01 Personal/030-039 Areas/Permanent notes/Small but huge impact quote by Benjamin Labatut.md"
-    },
-    {
-      "basename": "PKM toolstack.excalidraw",
-      "path": "S01 Personal/030-039 Areas/Permanent notes/PKM toolstack.excalidraw.md"
     },
     {
       "basename": "Notes from Learn how to learn",
@@ -75,10 +99,6 @@
     {
       "basename": "Johari Awareness model",
       "path": "S01 Personal/030-039 Areas/Permanent notes/Johari Awareness model.md"
-    },
-    {
-      "basename": "How to measure anything presentation",
-      "path": "S01 Personal/030-039 Areas/Permanent notes/How to measure anything presentation.md"
     },
     {
       "basename": "How to create things with your notes",
@@ -169,36 +189,8 @@
       "path": "S01 Personal/030-039 Areas/Permanent notes/4 Tips for forming Habits.md"
     },
     {
-      "basename": "How to Measure Anything Presentation",
-      "path": "S01 Personal/030-039 Areas/39a10 My Portfolio/How to Measure Anything Presentation.md"
-    },
-    {
-      "basename": "Forming Continuous Discovery Habits Presentation",
-      "path": "S01 Personal/030-039 Areas/39a10 My Portfolio/Forming Continuous Discovery Habits Presentation.md"
-    },
-    {
       "basename": "Discover Your Second Brain",
       "path": "S01 Personal/030-039 Areas/39a10 My Portfolio/Discover Your Second Brain.md"
-    },
-    {
-      "basename": "Cost of Delay Presentation",
-      "path": "S01 Personal/030-039 Areas/39a10 My Portfolio/Cost of Delay Presentation.md"
-    },
-    {
-      "basename": "The Primes Presentation",
-      "path": "S01 Personal/030-039 Areas/39a10 My Portfolio/The Primes Presentation.md"
-    },
-    {
-      "basename": "MOC Becoming a Fastlaner",
-      "path": "S01 Personal/030-039 Areas/39a06 Wealth/MOC Becoming a Fastlaner.md"
-    },
-    {
-      "basename": "7 tips about Money",
-      "path": "S01 Personal/030-039 Areas/39a06 Wealth/7 tips about Money.md"
-    },
-    {
-      "basename": "MOC - Learning How to Learn",
-      "path": "S01 Personal/030-039 Areas/39a05 Continuous Learning/MOC - Learning How to Learn.md"
     }
   ],
   "omittedPaths": [],

@@ -29,7 +29,6 @@ tags:
 📄 [[S01 Personal/030-039 Areas/Permanent notes/Good strategy, bad strategy visualized|Good strategy, bad strategy visualized]]
 📄 [[S01 Personal/030-039 Areas/Permanent notes/Grow 21 skills that pay you forever by Building your Second Brain|Grow 21 skills that pay you forever by Building your Second Brain]]
 📄 [[S01 Personal/030-039 Areas/Permanent notes/How to create things with your notes|How to create things with your notes]]
-📄 [[S01 Personal/030-039 Areas/Permanent notes/How to measure anything presentation|How to measure anything presentation]]
 📄 [[S01 Personal/030-039 Areas/Permanent notes/Johari Awareness model|Johari Awareness model]]
 📄 [[S01 Personal/030-039 Areas/Permanent notes/Johari.excalidraw.svg|Johari.excalidraw.svg]]
 📄 [[S01 Personal/030-039 Areas/Permanent notes/Johari.excalidraw|Johari.excalidraw]]

@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0064b9133bee7702",
+        "id": "681e5f1a3b1ad8f0",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "7df5baee0c03ed4b",
+            "id": "da10e0a17a19d92a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md",
+                "file": "S01 Personal/030-039 Areas/38 Agile/38.31 Leadership/The Culture of Feedback.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Toskanische Bohnensuppe"
+              "title": "The Culture of Feedback"
             }
           }
         ]
@@ -52,7 +53,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md",
+                "file": "S01 Personal/030-039 Areas/38 Agile/38.31 Leadership/The Culture of Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Toskanische Bohnensuppe"
+              "title": "Backlinks for The Culture of Feedback"
             }
           },
           {
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md",
+                "file": "S01 Personal/030-039 Areas/38 Agile/38.31 Leadership/The Culture of Feedback.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Toskanische Bohnensuppe"
+              "title": "Outline of The Culture of Feedback"
             }
           },
           {
@@ -178,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md",
+                "file": "S01 Personal/030-039 Areas/38 Agile/38.31 Leadership/The Culture of Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Toskanische Bohnensuppe"
+              "title": "Outgoing links from The Culture of Feedback"
             }
           }
         ]
@@ -229,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5,
-    "collapsed": true
+    "width": 462.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,10 +266,37 @@
       "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false
     }
   },
-  "active": "bd68f869dedca907",
+  "active": "da10e0a17a19d92a",
   "lastOpenFiles": [
-    "S01 Personal/030-039 Areas/Permanent notes/Writing for self discovery experience.md",
+    "S01 Personal/030-039 Areas/39a10 My Portfolio/attachments/howtomeasureanything.pdf",
+    "S01 Personal/050-059 Resources/themes/58 Agile/58.11 Wardley Mapping/attachments/GCHQ_Boiling_Frogs_Highlights.pdf",
+    "S01 Personal/030-039 Areas/38 Agile/38.43 Teams/MOC Teams.md",
+    "S01 Personal/030-039 Areas/38 Agile/38.31 Leadership/The Culture of Feedback.md",
+    "S01 Personal/030-039 Areas/38 Agile/38.31 Leadership/attachments/GCHQ_Boiling_Frogs_Highlights.pdf",
+    "S01 Personal/030-039 Areas/38 Agile/38.31 Leadership/38.31 Leadership.md",
+    "S01 Personal/050-059 Resources/themes/58 Agile/58.11 Wardley Mapping/Boiling Frogs CGHQ Paper.md",
+    "S01 Personal/030-039 Areas/Permanent notes/How to measure anything presentation.md",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/howtomeasureanything.pdf",
+    "S01 Personal/030-039 Areas/39a10 My Portfolio/How to Measure Anything Presentation.md",
+    "S01 Personal/030-039 Areas/Permanent notes/PKM toolstack.excalidraw.md",
+    "S01 Personal/030-039 Areas/35 Digital Garden/Digital-Garden-setup.excalidraw.md",
+    "S01 Personal/030-039 Areas/39a10 My Portfolio/Forming Continuous Discovery Habits Presentation.md",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127063834_848.png",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127063704_835.png",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127063633_233.png",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127063139_907.png",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127063040_889.png",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127061818_092.png",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127060919_878.png",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127060427_267.png",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127060239_992.png",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Pasted Image 20240127060109_944.png",
+    "S01 Personal/030-039 Areas/39a10 My Portfolio/attachments/FormingContinuousDiscoveryHabits.pdf",
+    "S01 Personal/030-039 Areas/31 Me/attachments/LearningStylesWorkshop.pdf",
+    "S01 Personal/030-039 Areas/Permanent notes/attachments/Drawing 2023-02-24 13.36.49.excalidraw.md",
     "S01 Personal/030-039 Areas/Permanent notes/Work against own idea bias.md",
+    "S01 Personal/030-039 Areas/Permanent notes/Writing for self discovery experience.md",
+    "S01 Personal/050-059 Resources/themes/51 Vegan/51.01 Receipts/Toskanische Bohnensuppe.md",
     "S01 Personal/030-039 Areas/Permanent notes/Why Brainstorming fails.md",
     "S01 Personal/030-039 Areas/Permanent notes/Time to Value.md",
     "S01 Personal/030-039 Areas/Permanent notes/We are what we repeatedly do - Quote reflection.md",
@@ -280,42 +307,15 @@
     "S01 Personal/030-039 Areas/Permanent notes/Small but huge impact quote by Benjamin Labatut.md",
     "S01 Personal/030-039 Areas/Permanent notes/Sparks from Agile 2.md",
     "S01 Personal/030-039 Areas/Permanent notes/Snapshot for a Setup for presentations.md",
-    "S01 Personal/030-039 Areas/Permanent notes/PKM toolstack.excalidraw.md",
     "S01 Personal/030-039 Areas/Permanent notes/Notes from Learn how to learn.md",
     "S01 Personal/030-039 Areas/Permanent notes/Org Team Structure and Communication aspects.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Observation Accepting Others Eating Your Time.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Notes on Working with the Zettelkasten to write an article.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Notes on the Crisis of Fractured Organizations.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Notes on efficient eMail processing.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Notes from Leadership Re-Development - Integrating Your Coaching.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Notes for Keine Sinnfragen, Bitte.md",
     "S01 Personal/030-039 Areas/Permanent notes/Note transitions.canvas",
-    "S01 Personal/030-039 Areas/Permanent notes/Move Forward Quote.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Note about lead magnets.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Memletics - Learning Model.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Mapping OKR and SMART.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Learning about Focus Drivers Approach - Park, Off Road, Sports, and Eco mode.md",
-    "S01 Personal/030-039 Areas/Permanent notes/Johari.excalidraw.svg",
-    "S01 Personal/030-039 Areas/Permanent notes/Creating a Visual Note.excalidraw.svg",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/Access approach map.svg",
     "S01 Personal/030-039 Areas/39 Build a 2nd brain/My experience Map.canvas",
-    "S01 Personal/030-039 Areas/38 Agile/38.09 Strategy/BoaP - Playing to Win.svg",
     "S01 Personal/030-039 Areas/30.01 Artificial Intelligence/attachments/649d59d9f88aae1c048304d0_ESMT_AIM_Brochure_Final_00.pdf",
-    "S01 Personal/+📥 inbox/attachments/Pasted image 20221003182704.png",
-    "S01 Personal/+📥 inbox/attachments/Pasted image 20221116150800.png",
-    "S01 Personal/+📥 inbox/attachments/Pasted image 20221116161241.png",
-    "S01 Personal/+📥 inbox/attachments/Pasted image 20221005071626.png",
-    "S01 Personal/+📥 inbox/attachments/Pasted image 20221116154923.png",
-    "S01 Personal/+📥 inbox/attachments/Pasted image 20221116154838.png",
     "S01 Personal/+📥 inbox/attachments/Marker-Optionen-Arbeit.pdf",
     "S01 Personal/+📥 inbox/attachments/Exploring-Your-Values-tool.pdf",
     "S01 Personal/+📥 inbox/attachments/Digital-HQ.de-DE.pdf",
     "S01 Personal/+📥 inbox/attachments/DeepLearningByHuberman.pdf",
-    "S01 Personal/+📥 inbox/attachments/CS Team Agreement.pdf",
-    "S01 Personal/+📥 inbox/attachments/checkliste-didaktisches-fundament.pdf",
-    "S01 Personal/+📥 inbox/attachments/74347858-211f-4b72-99d8-001090bc0192.pdf",
-    "S01 Personal/+📥 inbox/attachments/03-Meeting Summary WTS Employee Experience Panel.pdf",
-    "S01 Personal/+📥 inbox/attachments/02-Meeting Summary WTS Customer Experience Panel.pdf",
     "S01 Personal/Archive/111 Session Form Continuous Discovery Habits/30-39 Areas/Flow.canvas",
     "S03 QuintSmart/Archive/133 SecondBrain and AI course/Filled Business Model Canvas.canvas",
     "S01 Personal/Archive/110 Building a Second Brain with Obsidian/30-39 Areas/31 Marketing/Messaging Map.canvas",

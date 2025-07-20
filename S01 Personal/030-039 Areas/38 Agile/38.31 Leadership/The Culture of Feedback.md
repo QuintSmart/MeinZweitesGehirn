@@ -25,7 +25,6 @@ The model of 4 stages of psychological safety [[#Notes from: 4 Stages of Psychol
 + Interesting connection between curiosity and clarity
 	+ it needs a challenger (for too many new ideas) and also the innovator (bringing in new ideas)
 	+ connection with Pioneer, Settler, Townplanner
-		+ [[GCHQ_Boiling_Frogs_Highlights.pdf]]
 ## Short overview on the Six Questions to establish psychological safety
 
 ![[Pasted image 20231006152748.png]]
