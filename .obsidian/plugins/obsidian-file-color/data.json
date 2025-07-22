@@ -1,0 +1,80 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "QgviQxFQ3C5XAwOfzctt-",
+      "name": "Projects",
+      "value": "#fadbc5"
+    },
+    {
+      "id": "tixRut__rgEWPQlVqx_-a",
+      "name": "Areas",
+      "value": "#d3e4cd"
+    },
+    {
+      "id": "TPLSX-sjsk1NrEULRB8rv",
+      "name": "Resources",
+      "value": "#cde3e4"
+    },
+    {
+      "id": "DfKH_NclJfe_bNAvWN1gR",
+      "name": "Archive",
+      "value": "#dadbdf"
+    },
+    {
+      "id": "LmPhbEi5dct65bglSIeVb",
+      "name": "Zettelkasten",
+      "value": "#d9d3e9"
+    },
+    {
+      "id": "FFWU1HejwV5liL_HfIYPr",
+      "name": "Inbox",
+      "value": "#fad0c4"
+    },
+    {
+      "id": "IFKrhxDwaLhyVa7e2xg9p",
+      "name": "Journal",
+      "value": "#fbf3e3"
+    },
+    {
+      "id": "IQsl2TQdJdlAjtN0wVHPg",
+      "name": "Utilities",
+      "value": "#d9cbaf"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "S01 Personal/100-199 Projects",
+      "color": "QgviQxFQ3C5XAwOfzctt-"
+    },
+    {
+      "path": "S01 Personal/030-039 Areas",
+      "color": "tixRut__rgEWPQlVqx_-a"
+    },
+    {
+      "path": "S01 Personal/050-059 Resources",
+      "color": "TPLSX-sjsk1NrEULRB8rv"
+    },
+    {
+      "path": "S01 Personal/Archive",
+      "color": "DfKH_NclJfe_bNAvWN1gR"
+    },
+    {
+      "path": "S01 Personal/100 Zettelkasten",
+      "color": "LmPhbEi5dct65bglSIeVb"
+    },
+    {
+      "path": "S01 Personal/060-069 Utilities",
+      "color": "IQsl2TQdJdlAjtN0wVHPg"
+    },
+    {
+      "path": "S01 Personal/+📥 inbox",
+      "color": "FFWU1HejwV5liL_HfIYPr"
+    },
+    {
+      "path": "S01 Personal/040-049 Journal",
+      "color": "IFKrhxDwaLhyVa7e2xg9p"
+    }
+  ]
+}

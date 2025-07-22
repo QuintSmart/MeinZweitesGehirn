@@ -62,6 +62,36 @@
       "setFileExistsBehavior": false
     },
     {
+      "id": "fecc49a0-d5c7-41f5-970b-e8963cf2bc15",
+      "name": "Add to: ♾ Permanent Notes",
+      "type": "Template",
+      "command": false,
+      "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL QA Permanent Note.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:What is your name for the permanent note?}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "S01 Personal/100 Zettelkasten"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "30264ed9-c3ab-414f-b947-e88895e25fa3",
       "name": "Add to: 📚 Literature Notes",
       "type": "Template",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "712387554d9c9c45",
+        "id": "8fa1a2be3aeaba02",
         "type": "tabs",
         "children": [
           {
-            "id": "a0d2779c2af29021",
+            "id": "ead3938a0183683d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -115,7 +115,7 @@
       {
         "id": "f0d3dceb8a73d9d0",
         "type": "tabs",
-        "dimension": 37.30407523510973,
+        "dimension": 37.30407523510972,
         "children": [
           {
             "id": "122fa56f0c3fc01b",
@@ -163,6 +163,16 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
+            }
+          },
+          {
+            "id": "5768cac81a91a567",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ]
@@ -263,16 +273,40 @@
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
-      "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": true,
-      "copilot:Open Copilot Chat": false
+      "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": true
     }
   },
-  "active": "a0d2779c2af29021",
+  "active": "bd68f869dedca907",
   "lastOpenFiles": [
-    "S01 Personal/sortspec.md",
+    "Home 🏠.md",
+    "MySecondBrain.md",
+    "S01 Personal/050-059 Resources/52 AI/9 ChatGPT quick prompts to accelerate your learnings.md",
+    "S01 Personal/100 Zettelkasten/Test perm note.md",
+    "S01 Personal/100 Zettelkasten/100 Zettelkasten.md",
+    "S01 Personal/060-069 Utilities/64 Templates/TPL QA Permanent Note.md",
+    "S01 Personal/040-049 Journal/41 Daily Notes/41 Daily Notes.md",
+    "S01 Personal/040-049 Journal/46 copilot-conversations/46 copilot-conversations.md",
+    "S01 Personal/100 Zettelkasten",
+    "S01 Personal/040-049 Journal/040-049 Journal.md",
+    "S01 Personal/040-049 Journal/46 copilot-conversations",
+    "S01 Personal/060-069 Utilities/060-069 Utilities.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Rewrite as tweet thread.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Rewrite as tweet.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Remove URLs.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Generate glossary.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Generate table of contents.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Make longer.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Make shorter.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Emojify.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Explain like I am 5.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Simplify.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Summarize.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Translate to Chinese.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/Fix grammar and spelling.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts/65 Copilot-custom-prompts.md",
+    "S01 Personal/060-069 Utilities/64 Templates/64 Templates.md",
+    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Week 2 - Session Design.excalidraw.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Teaching Around the 4MAT Cycle Highlights.md",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505132225_080.png",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505125000_096.png",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250428155547_078.png",
@@ -283,30 +317,8 @@
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505143304_249.png",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted image 20250504200525.png",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505125516_440.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/12 Favorite Problem assistent prompt.md",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Transcript_Week 2 - Training.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/AI session summary.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Chat_Week2 - Training.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Week 2.md",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/Usage of 12 Favorite Problems.md",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2",
-    "Home 🏠.md",
-    "MySecondBrain.md",
-    "S01 Personal/040-049 Journal/41 Daily Notes/2025-07-20_Sun.md",
-    "Untitled Kanban.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Make longer.md",
-    "S01 Personal/050-059 Resources/59a01 Build a 2nd Brain/Book Summarization/Progressive Summarization.md",
-    "S01 Personal/050-059 Resources/59a01 Build a 2nd Brain/Book Summarization/Write a book summary.md",
-    "S01 Personal/050-059 Resources/59a01 Build a 2nd Brain/Book Summarization/How to take Digital Notes.md",
-    "copilot-custom-prompts/copilot-custom-prompts.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts",
     "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments",
     "S01 Personal/030-039 Areas/38 Being an Agile Coach/attachments/Agile2_Presentation.pdf",
@@ -314,9 +326,6 @@
     "S01 Personal/030-039 Areas/39 Build a 2nd brain/Note transitions.canvas",
     "S01 Personal/030-039 Areas/38 Being an Agile Coach",
     "S01 Personal/030-039 Areas/35 Digital Garden/Note transitions.canvas",
-    "S01 Personal/030-039 Areas/39a03 Career Management/39a11 LinkedIn Posting",
-    "S01 Personal/030-039 Areas/39a03 Career Management/attachments/LinkedIn Playbook.pdf",
-    "S01 Personal/030-039 Areas/39a03 Career Management/attachments/LinkedIn Headline Examples.pdf",
     "S01 Personal/030-039 Areas/Permanent notes/Note transitions.canvas",
     "S01 Personal/030-039 Areas/39 Build a 2nd brain/My experience Map.canvas",
     "S01 Personal/Archive/111 Session Form Continuous Discovery Habits/30-39 Areas/Flow.canvas",

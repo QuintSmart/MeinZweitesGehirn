@@ -6,5 +6,6 @@ sorting-spec: |-
   ... Areas
   ... Resources
   ... Utilities
+  ... Zettelkasten
   Archive
 ---

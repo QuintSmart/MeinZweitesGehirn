@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabLinkedin",
-      "📰",
-      "QuQuintSmartLogo",
-      "QuQuintSmartCompanyLogoSmall",
-      "FasDatabase"
+      "SiIced",
+      "LiAtom",
+      "🗄",
+      "🐢",
+      "LiTurtle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,12 @@
   },
   "S01 Personal": "RiMentalHealthFill",
   "S03 QuintSmart/030-039 Areas/33 Newsletter": "📰",
-  "Archive/S02 Blinkist": "FasBookOpenReader"
+  "Archive/S02 Blinkist": "FasBookOpenReader",
+  "S01 Personal/040-049 Journal": "SiLivejournal",
+  "S01 Personal/060-069 Utilities": "RiToolsLine",
+  "S01 Personal/100-199 Projects": "RiRunLine",
+  "S01 Personal/030-039 Areas": "🐢",
+  "S01 Personal/050-059 Resources": "🗄",
+  "S01 Personal/100 Zettelkasten": "LiAtom",
+  "S01 Personal/Archive": "SiIced"
 }
