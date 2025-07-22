@@ -1,8 +1,8 @@
 ---
-tags: 
-- digital_garden
-- epstatus/1-🌱
-- type/permanent-note
+tags:
+  - digital_garden
+  - epstatus/1-🌱
+  - type/literature-note
 date_created: Saturday, July 15th 2023, 12:33:30 pm
 date_modified: Saturday, July 15th 2023, 12:43:36 pm
 ---

@@ -1,9 +1,9 @@
 ---
-aliases: 
-tags: 
-- digital_garden
-- type/permanent-note
-- epstatus/1-🌱
+aliases:
+tags:
+  - digital_garden
+  - epstatus/1-🌱
+  - type/literature-note
 date_created: Sunday, June 5th 2022, 11:12:06 am
 date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---

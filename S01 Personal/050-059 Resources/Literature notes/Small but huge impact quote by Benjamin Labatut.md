@@ -1,9 +1,8 @@
 ---
-tags: 
-- digital_garden
-- epstatus/1-🌱
-- type/permanent-note
-
+tags:
+  - digital_garden
+  - epstatus/1-🌱
+  - type/literature-note
 ---
 # Small but huge impact quote by Benjamin Labatut
 Something very small, so tiny and insignificant in its origin, can nonetheless open up a new and radiant perspective, because through it a higher order of being is trying to express itself.

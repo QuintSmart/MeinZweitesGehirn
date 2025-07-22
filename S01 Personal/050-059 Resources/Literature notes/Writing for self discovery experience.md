@@ -1,8 +1,7 @@
 ---
-tags: 
-- epstatus/1-🌱 
-- type/permanent-note
-
+tags:
+  - epstatus/1-🌱
+  - type/literature-note
 ---
 # Writing for self discovery experience
 *Writing is like a mirror*

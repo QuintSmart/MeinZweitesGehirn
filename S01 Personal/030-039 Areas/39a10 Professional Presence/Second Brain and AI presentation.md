@@ -1,7 +1,6 @@
 ---
 tags:
   - epstatus/0-🌰
-  - type/permanent-note
   - digital_garden
 event_date:
 date_created: Wednesday, March 26th 2025, 7:47:56 am

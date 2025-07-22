@@ -11,7 +11,6 @@ tags:
 📄 [[S01 Personal/030-039 Areas/39a03 Career Management/39a03 LinkedIn|39a03 LinkedIn]]
 📄 [[S01 Personal/030-039 Areas/39a03 Career Management/Ancient Ghostwriter Prompt|Ancient Ghostwriter Prompt]]
 📄 [[S01 Personal/030-039 Areas/39a03 Career Management/Another Carousel Cheatsheet|Another Carousel Cheatsheet]]
-📄 [[S01 Personal/030-039 Areas/39a03 Career Management/Braindump exercise|Braindump exercise]]
 📄 [[S01 Personal/030-039 Areas/39a03 Career Management/Carousel Cheatsheet|Carousel Cheatsheet]]
 📄 [[S01 Personal/030-039 Areas/39a03 Career Management/Creator Copy Matrix|Creator Copy Matrix]]
 📄 [[S01 Personal/030-039 Areas/39a03 Career Management/Great further hooks|Great further hooks]]

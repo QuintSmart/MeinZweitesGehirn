@@ -17,5 +17,12 @@
   "minimal-style@@table-numbers": false,
   "minimal-style@@tabs-style": "tabs-default",
   "quick-explorer@@qe-hide-breadcrumbs": false,
-  "minimal-style@@h1-l": false
+  "minimal-style@@h1-l": false,
+  "minimal-style@@sp1@@light": "#F8FBF8",
+  "minimal-style@@ax2@@light": "#DD1616",
+  "minimal-style@@metadata-add-property-off": false,
+  "minimal-advanced@@hide-markdown": false,
+  "minimal-style@@bg2@@light": "#0275B8",
+  "minimal-style@@base@@light": "#0275B8",
+  "minimal-style@@ui1@@light": "#D8DEE1"
 }

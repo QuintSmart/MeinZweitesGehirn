@@ -1,8 +1,8 @@
 ---
 tags:
-  - type/permanent-note
   - digital_garden
   - epstatus/1-🌱
+  - type/permanent-note
 date_created: Tuesday, February 4th 2025, 7:27:25 am
 date_modified: Tuesday, February 4th 2025, 7:29:35 am
 ---

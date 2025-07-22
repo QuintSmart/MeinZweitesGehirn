@@ -19,7 +19,6 @@
 📄 [[S01 Personal/050-059 Resources/Literature notes/Breakthrough Facilitation - Virtual Facilitator Workshop|Breakthrough Facilitation - Virtual Facilitator Workshop]]
 📄 [[S01 Personal/050-059 Resources/Literature notes/Capture of a 4 Step estimation mental model|Capture of a 4 Step estimation mental model]]
 📄 [[S01 Personal/050-059 Resources/Literature notes/Communication TED talks|Communication TED talks]]
-📄 [[S01 Personal/050-059 Resources/Literature notes/Creating a flow of energy|Creating a flow of energy]]
 📄 [[S01 Personal/050-059 Resources/Literature notes/Daily Reflections fosters learning|Daily Reflections fosters learning]]
 📄 [[S01 Personal/050-059 Resources/Literature notes/Decision making with 6 thinking hats (De Bono)|Decision making with 6 thinking hats (De Bono)]]
 📄 [[S01 Personal/050-059 Resources/Literature notes/Digital Productivity Pyramid|Digital Productivity Pyramid]]

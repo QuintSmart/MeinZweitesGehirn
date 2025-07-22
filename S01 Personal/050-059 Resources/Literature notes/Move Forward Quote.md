@@ -1,9 +1,8 @@
 ---
-tags: 
-- digital_garden
-- epstatus/1-🌱
-- type/permanent-note
-
+tags:
+  - digital_garden
+  - epstatus/1-🌱
+  - type/literature-note
 ---
 # Move Forward Quote
 "Move toward the next thing, not away from the last thing.

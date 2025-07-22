@@ -1,7 +1,7 @@
 ---
-tags: 
-- type/permanent-note
-- epstatus/2-🪴
+tags:
+  - epstatus/2-🪴
+  - type/literature-note
 date_created: Sunday, April 30th 2023, 5:13:18 am
 date_modified: Thursday, May 18th 2023, 6:15:56 pm
 ---

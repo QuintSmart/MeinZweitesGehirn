@@ -2,7 +2,7 @@
 tags:
   - digital_garden
   - epstatus/1-🌱
-  - type/permanent-note
+  - type/literature-note
 date_created: Saturday, December 30th 2023, 7:43:54 pm
 date_modified: Saturday, December 30th 2023, 7:49:28 pm
 ---
