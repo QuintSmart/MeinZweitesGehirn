@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db7f4a96bfecc400",
+        "id": "f2cbe4f65d141799",
         "type": "tabs",
         "children": [
           {
-            "id": "a4a8f8f4f761aa45",
+            "id": "14a7445cbd35b32e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 354.5
   },
   "right": {
     "id": "e097fb3699a615ee",
@@ -115,7 +115,7 @@
       {
         "id": "f0d3dceb8a73d9d0",
         "type": "tabs",
-        "dimension": 29.392624728850322,
+        "dimension": 29.39262472885033,
         "children": [
           {
             "id": "caacb98c4fda9505",
@@ -193,7 +193,7 @@
       {
         "id": "1ed764826846dfb6",
         "type": "tabs",
-        "dimension": 21.69197396963124,
+        "dimension": 21.691973969631242,
         "children": [
           {
             "id": "2ab7abeb0cda9eec",
@@ -214,7 +214,7 @@
       {
         "id": "49605b4c4672eb59",
         "type": "tabs",
-        "dimension": 27.2234273318872,
+        "dimension": 27.223427331887205,
         "children": [
           {
             "id": "07cffb40ea7e5140",
@@ -231,7 +231,7 @@
       {
         "id": "c847376ecaca3053",
         "type": "tabs",
-        "dimension": 21.69197396963124,
+        "dimension": 21.691973969631242,
         "children": [
           {
             "id": "bd1a6f2c97b831e1",
@@ -292,6 +292,26 @@
   "active": "bd68f869dedca907",
   "lastOpenFiles": [
     "Home 🏠.md",
+    "S01 Personal/100 Zettelkasten/Agile 2 - Presentation Slides.md",
+    "S01 Personal/100 Zettelkasten/attachments/brewing.png",
+    "S01 Personal/100 Zettelkasten/attachments/brewed.png",
+    "S01 Personal/100 Zettelkasten/attachments/bean.png",
+    "S01 Personal/100 Zettelkasten/attachments/Wardley Maps - Template.rtb",
+    "S01 Personal/100 Zettelkasten/attachments/Wardley Maps - Template.pdf",
+    "S01 Personal/100 Zettelkasten/attachments/Pasted image 20240505054325.png",
+    "S01 Personal/100 Zettelkasten/attachments/ThePrimesPresentation.pdf",
+    "S01 Personal/100 Zettelkasten/attachments/TLSSmartLearningAndLeadership.pdf",
+    "S01 Personal/100 Zettelkasten/attachments/Pasted image 20240122131339.png",
+    "S01 Personal/100 Zettelkasten/attachments/Pasted image 20240122130653.png",
+    "S01 Personal/100 Zettelkasten/attachments/CostOfDelay.pdf",
+    "S01 Personal/100 Zettelkasten/attachments/Agile2_Presentation.pdf",
+    "S01 Personal/100 Zettelkasten/attachments",
+    "S01 Personal/030-039 Areas/38 Being an Agile Coach/attachments/Agile2_Presentation.pdf",
+    "S01 Personal/100 Zettelkasten/Agile Methodologies.md",
+    "S01 Personal/100 Zettelkasten/About my usage of Fleeting Notes, Permanent notes and Literature Notes.md",
+    "S01 Personal/100 Zettelkasten/Test 1.md",
+    "S01 Personal/040-049 Journal/41 Daily Notes/41 Daily Notes.md",
+    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Important Course Information.md",
     "S01 Personal/100 Zettelkasten/Agile Principles.md",
     "S01 Personal/100 Zettelkasten/Braindump exercise.md",
     "S01 Personal/100 Zettelkasten/CORE VALUES & PRINCIPLES A Deep Analysis.md",
@@ -310,33 +330,12 @@
     "S01 Personal/050-059 Resources/Literature notes/Grow 21 skills that pay you forever by Building your Second Brain.md",
     "S01 Personal/050-059 Resources/59a05 Agile/Teams/High Performance Teams.md",
     "S01 Personal/050-059 Resources/Literature notes/How to create things with your notes.md",
-    "S01 Personal/030-039 Areas/39a10 Professional Presence/How to Measure Anything Presentation.md",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/Introduction to Agile.md",
-    "S01 Personal/050-059 Resources/Literature notes/Johari Awareness model.md",
-    "S01 Personal/050-059 Resources/59a01 Build a 2nd Brain/PARA/Just-In-Time Organization.md",
-    "S01 Personal/050-059 Resources/59a05 Agile/Agile Core/Lean - an overview.md",
-    "S01 Personal/030-039 Areas/39a10 Professional Presence/Learning That Pays Dividends.md",
-    "S01 Personal/050-059 Resources/59a06 Coaching/Levels of Expertise.md",
     "S01 Personal/030-039 Areas/39a10 Professional Presence/attachments/TLSSmartLearningAndLeadership.pdf",
     "S01 Personal/030-039 Areas/39a10 Professional Presence/attachments/ThePrimesPresentation.pdf",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 1/attachments/OpenVault.png",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/attachments/NotesBanner.png",
-    "S01 Personal/100 Zettelkasten",
-    "S01 Personal/040-049 Journal/46 copilot-conversations",
-    "S01 Personal/060-069 Utilities/65 Copilot-custom-prompts",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505132225_080.png",
     "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505125000_096.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250428155547_078.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted image 20250504201516.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250113193315_437.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505110824_604.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505144959_711.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments/Pasted Image 20250505143304_249.png",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2/attachments",
-    "S01 Personal/100-199 Projects/101 Running through Learning Ecosystem Mastery/Week 2",
-    "copilot-custom-prompts",
-    "S01 Personal/030-039 Areas/39 Build a 2nd brain/attachments",
-    "S01 Personal/030-039 Areas/38 Being an Agile Coach/attachments/Agile2_Presentation.pdf",
     "S01 Personal/030-039 Areas/39 Build a 2nd brain/Note transitions.canvas",
     "S01 Personal/030-039 Areas/35 Digital Garden/Note transitions.canvas",
     "S01 Personal/030-039 Areas/Permanent notes/Note transitions.canvas",
