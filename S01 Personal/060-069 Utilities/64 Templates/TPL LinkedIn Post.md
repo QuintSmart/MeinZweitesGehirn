@@ -12,7 +12,7 @@ tags:
 
 👉 [FOLLOW ME on LinkedIn](YOUR_PROFILE)
 
-## Content preparation
+## Content Vorbereitung
 <% tp.file.cursor() %>
 ([[Notes from Simple Marketing for Smart People|details for Belief-Claim-Proof]])
 Belief: *A notebook is a secret weapon of top creatives.* 

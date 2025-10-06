@@ -7,6 +7,6 @@ date_modified: Sunday, April 27th 2025, 8:58:54 pm
 ---
 # Home 🏠
 
-Welcome ♥️  to your Private Knowledge Management System.
+Willkommen in deinem persönlichen Wissensmanagement System.
 
-Here you can find [[Important Course Information]]
+Hier findest du [[Wichtige Kursinformationen]]

@@ -25,7 +25,7 @@ Fleeting notes reside in a folder *fleeting notes* that resides inside a Zettelk
 Fleeting notes can also be captured inside projects. But I need to further observe if that makes sense. 
 
 ## Permanent notes
-Permanent notes ([[How to take Smart Notes - Key Insights#Permanent notes]]) will form the building blocks/lego bricks for my Second Brain.  They should be on ==higher quality level==. Originally I thought they might be originating from fleeting notes. But then I discovered the concept of literature notes ([[What is a literature note]]).
+Permanent notes ([[How to take Smart Notes - Key Insights#Permanent notes]]) will form the building blocks/lego bricks for my Second Brain.  They should be on ==higher quality level==. Originally I thought they might be originating from fleeting notes. But then I discovered the concept of literature notes ([[Was sind Literatur Notizen]]).
 
 And it became obvious that **there is a transition from literature notes and derived permanent notes**. And there is also a **transition from fleeting notes to permanent notes and also to literature notes**.
 

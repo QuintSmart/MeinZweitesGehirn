@@ -10,25 +10,24 @@ tags:
 # <% tp.file.title %>
 << [[<% tp.date.now("YYYY-MM-DD_ddd", -1) %>]] | [[<% tp.date.now("YYYY-MM-DD_ddd", 1) %>]] >>
 
-Current week: [[S01 Personal/040-049 Journal/42 Weekly Notes/<% tp.date.now("YYYY-[W]WW") %> |<% tp.date.now("YYYY-[W]WW") %>]] | Next week: [[S01 Personal/040-049 Journal/42 Weekly Notes/<% tp.date.now("YYYY-[W]WW", "P+1W") %> |<% tp.date.now("YYYY-[W]WW", "P+1W") %>]]
+Aktuelle Woche: [[S01 Personal/040-049 Journal/42 Weekly Notes/<% tp.date.now("YYYY-[W]WW") %> |<% tp.date.now("YYYY-[W]WW") %>]] | Nächste Woche: [[S01 Personal/040-049 Journal/42 Weekly Notes/<% tp.date.now("YYYY-[W]WW", "P+1W") %> |<% tp.date.now("YYYY-[W]WW", "P+1W") %>]]
 Current month: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM") %> |<% tp.date.now("YYYY-MM") %>]] | Next month: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM", "P+1M") %> |<% tp.date.now("YYYY-MM", "P+1M") %>]]
 
-## Goal for today
+## Ziele für heute
 
-## The story of the day
-*If I had to tell a story from today - a five minute story onstage about something that took place over the course of this day - what would it be?*
-
-
-## Done today (Obsidian based)
-
-### Current Pact
+## Meine Highlight-Geschichte an diesem Tag
+*Wenn ich eine Geschichte von heute erzählen müsste - eine fünfminütige Geschichte auf der Bühne über etwas, das im Laufe dieses Tages passiert ist - was wäre das?*
 
 
-### My 3 permanent notes today
+## Heute erledigt
 
-## Discovered today
-## Gratitude
+### Mein aktueller PACT
 
-### Capture what I eat
+
+### Meine 3 wichtigen Notizen von heute
+
+## Entdeckungen heute
+## Dankbarkeit
+
 [[<% tp.date.now("YYYY-MM-DD_ddd") %>]]
 

@@ -4,7 +4,7 @@
       "id": "718d84c4-517e-458e-9f20-121415d44820",
       "name": "Add to: LinkedIn Posts",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL QA LinkedIn Post.md",
       "fileNameFormat": {
         "enabled": true,
@@ -14,7 +14,7 @@
         "enabled": true,
         "folders": [
           "",
-          "S01 Personal/030-039 Areas/39a03 Career Management/39a11 LinkedIn Posting"
+          "S01 Personal/030-039 Areale/39a03 Career Management/39a11 LinkedIn Posting"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -29,13 +29,19 @@
       "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "setFileExistsBehavior": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      }
     },
     {
       "id": "04a07b63-18fc-4bb4-b300-de461cfed6bb",
       "name": "Add to: 🏊 Fleeting Note",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL QA Fleeting Note.md",
       "fileNameFormat": {
         "enabled": true,
@@ -50,7 +56,11 @@
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
-      "appendLink": true,
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": false
+      },
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
@@ -59,13 +69,19 @@
       "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "setFileExistsBehavior": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      }
     },
     {
       "id": "fecc49a0-d5c7-41f5-970b-e8963cf2bc15",
       "name": "Add to: ♾ Permanent Notes",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL QA Permanent Note.md",
       "fileNameFormat": {
         "enabled": true,
@@ -80,7 +96,11 @@
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
-      "appendLink": true,
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": false
+      },
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
@@ -89,13 +109,19 @@
       "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "setFileExistsBehavior": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      }
     },
     {
       "id": "30264ed9-c3ab-414f-b947-e88895e25fa3",
       "name": "Add to: 📚 Literature Notes",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "S01 Personal/060-069 Utilities/64 Templates/TPL QA Literature Note.md",
       "fileNameFormat": {
         "enabled": true,
@@ -104,13 +130,17 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "S01 Personal/050-059 Resources/Literature notes"
+          "S01 Personal/050-059 Ressourcen/Literature notes"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
       },
-      "appendLink": true,
+      "appendLink": {
+        "enabled": true,
+        "placement": "replaceSelection",
+        "requireActiveFile": false
+      },
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
@@ -119,17 +149,25 @@
       "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "setFileExistsBehavior": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "focus": true,
+        "mode": "default"
+      }
     }
   ],
-  "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "S01 Personal/060-069 Utilities/64 Templates",
   "announceUpdates": true,
-  "version": "1.18.1",
+  "version": "2.4.0",
+  "globalVariables": {},
+  "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
   "enableRibbonIcon": true,
+  "showCaptureNotification": true,
   "ai": {
     "defaultModel": "Ask me",
     "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
@@ -191,6 +229,8 @@
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
     "setVersionAfterUpdateModalRelease": true,
-    "addDefaultAIProviders": true
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true
   }
 }

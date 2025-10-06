@@ -2,9 +2,9 @@
 sorting-spec: |-
   +📥 inbox
   ... Journal
-  ... Projects
-  ... Areas
-  ... Resources
+  ... Projekte
+  ... Areale
+  ... Ressourcen
   ... Utilities
   ... Zettelkasten
   Archive

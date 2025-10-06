@@ -45,9 +45,9 @@
   "Archive/S02 Blinkist": "FasBookOpenReader",
   "S01 Personal/040-049 Journal": "SiLivejournal",
   "S01 Personal/060-069 Utilities": "RiToolsLine",
-  "S01 Personal/100-199 Projects": "RiRunLine",
-  "S01 Personal/030-039 Areas": "🐢",
-  "S01 Personal/050-059 Resources": "🗄",
   "S01 Personal/100 Zettelkasten": "LiAtom",
-  "S01 Personal/Archive": "SiIced"
+  "S01 Personal/Archive": "SiIced",
+  "S01 Personal/100-199 Projekte": "RiRunLine",
+  "S01 Personal/050-059 Ressourcen": "🗄",
+  "S01 Personal/030-039 Areale": "🐢"
 }

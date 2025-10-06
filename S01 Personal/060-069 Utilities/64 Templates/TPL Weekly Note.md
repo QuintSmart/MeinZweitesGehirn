@@ -6,21 +6,21 @@ tags:
 
 # <% tp.file.title %> - Week in review
 << [[<% tp.date.now("YYYY-[W]WW", "P-1W") %>]] | [[<% tp.date.now("YYYY-[W]WW", "P+1W") %>]] >>
-Current month: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM") %> |<% tp.date.now("YYYY-MM") %>]] | Next month: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM", "P+1M") %> |<% tp.date.now("YYYY-MM", "P+1M") %>]]
-Year note: [[<% tp.date.now("YYYY") %>]]
+Aktueller Monate: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM") %> |<% tp.date.now("YYYY-MM") %>]] | Nächster Monat: [[S01 Personal/040-049 Journal/43 Monthly Notes/<% tp.date.now("YYYY-MM", "P+1M") %> |<% tp.date.now("YYYY-MM", "P+1M") %>]]
+Jahresnotiz: [[<% tp.date.now("YYYY") %>]]
 
-## Goals
+## Ziele
 
-## Achievements
+## Errungenschaften
 
-## Challenges
+## Herausforderungen
 
-## Discoveries
+## Entdeckungen
 
-## Gratitude
+## Dankbarkeit
 
 ## Review
-- [ ] Clear Asana Email inbox
+- [ ] Clear Email inbox
 - [ ] Check calendar (-2/+4 weeks)
 - [ ] Clear notebook and *Fleeting notes*
 - [ ] Clear downloads and documents folder
