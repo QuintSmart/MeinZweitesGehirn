@@ -18,8 +18,22 @@
 .tmp.driveupload/152901
 MySecondBrain.md
 
+## Operating System Files
+# These are files created automatically by your OS.
+# ---------------------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
 
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
 # Ignore Smart Connections folder
 .smart-connections
-.obsidian/plugins/obsidian-secondbrainfetcher-plugin

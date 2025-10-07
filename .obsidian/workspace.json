@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S01 Personal/100-199 Projekte/101 Lern Ökosystem Mastery/Wichtige Kursinformationen.md",
+                "file": "S01 Personal/100-199 Projekte/101 Lern Ökosystem Mastery/Woche 1/Obsidian Installationshinweise - V1.0.1.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wichtige Kursinformationen"
+              "title": "Obsidian Installationshinweise - V1.0.1"
             }
           }
         ]
@@ -83,16 +83,6 @@
         "dimension": 24.93765586034913,
         "children": [
           {
-            "id": "bd68f869dedca907",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
             "id": "71a858094b00afda",
             "type": "leaf",
             "state": {
@@ -117,6 +107,33 @@
         "type": "tabs",
         "dimension": 29.392624728850322,
         "children": [
+          {
+            "id": "5952a860b039a453",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "S01 Personal/100-199 Projekte/101 Lern Ökosystem Mastery/Woche 1/Obsidian Installationshinweise - V1.0.1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Obsidian Installationshinweise - V1.0.1"
+            }
+          },
+          {
+            "id": "3c87550c2d169ad4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "S01 Personal/100-199 Projekte/101 Lern Ökosystem Mastery/Woche 1/Obsidian Installationshinweise - V1.0.1.md"
+              },
+              "icon": "lucide-info",
+              "title": "Dateieigenschaften von Obsidian Installationshinweise - V1.0.1"
+            }
+          },
           {
             "id": "caacb98c4fda9505",
             "type": "leaf",
@@ -149,46 +166,9 @@
               "icon": "links-coming-in",
               "title": "Backlinks for Important Course Information"
             }
-          },
-          {
-            "id": "5952a860b039a453",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "S01 Personal/030-039 Areas/39 Build a 2nd brain/What are permanent notes.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of What are permanent notes"
-            }
-          },
-          {
-            "id": "3c87550c2d169ad4",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "S01 Personal/060-069 Utilities/060-069 Utilities.md"
-              },
-              "icon": "lucide-info",
-              "title": "Dateieigenschaften von 060-069 Utilities"
-            }
-          },
-          {
-            "id": "bcd2847a78c077be",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "1ed764826846dfb6",
@@ -201,12 +181,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S01 Personal/060-069 Utilities/060-069 Utilities.md",
+                "file": "S01 Personal/100-199 Projekte/101 Lern Ökosystem Mastery/Woche 1/Obsidian Installationshinweise - V1.0.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von 060-069 Utilities öffnen"
+              "title": "Ausgehende Links von Obsidian Installationshinweise - V1.0.1 öffnen"
             }
           }
         ]
@@ -289,8 +269,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd68f869dedca907",
+  "active": "3d3efedf78eda274",
   "lastOpenFiles": [
+    "S01 Personal/100-199 Projekte/101 Lern Ökosystem Mastery/Woche 1/attachments/Pasted image 20251006191231.png",
+    "S01 Personal/100-199 Projekte/101 Lern Ökosystem Mastery/Woche 1/Obsidian Installationshinweise - V1.0.1.md",
+    "S01 Personal/100-199 Projekte/101 Lern Ökosystem Mastery/Wichtige Kursinformationen.md",
     "Home 🏠.md",
     "MeinZweitesGehirn.md",
     "S01 Personal/050-059 Ressourcen/Literature notes/Test LN.md",
@@ -320,9 +303,6 @@
     "S01 Personal/100 Zettelkasten/Agile Mindset, Values, Principles and Methodology in an Overview.md",
     "S01 Personal/100 Zettelkasten/Agile Principles.md",
     "S01 Personal/100 Zettelkasten/CORE VALUES & PRINCIPLES A Deep Analysis.md",
-    "S01 Personal/100 Zettelkasten/Creating a flow of energy.md",
-    "S01 Personal/100 Zettelkasten/Don't restrict learning.md",
-    "S01 Personal/100 Zettelkasten/Empiricism.md",
     "S01 Personal/050-059 Ressourcen/59a02 4MAT Smart Learning/attachments/4MAT.A4_LTM..ENG.pdf",
     "S01 Personal/+📥 inbox/attachments/Pasted image 20221003182704.png",
     "S01 Personal/030-039 Areale/39a03 LinkedIn Insights/attachments/Pasted image 20240128221337.png",
